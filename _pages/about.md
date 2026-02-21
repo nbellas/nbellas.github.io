@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nikolaos Bellas - About Me"
+title: "Nikolaos Bellas </br> Professor, University of Thessaly "
 author_profile: true
 redirect_from: 
   - /about/
