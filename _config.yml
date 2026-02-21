@@ -23,7 +23,7 @@ repository               : "nbellas/nbellas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/NikosBellas_Photo.jpg"
+  avatar           : "images/profile.png"
   name             : "Nikolaos Bellas"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
