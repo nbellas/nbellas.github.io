@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Nikolaos Bellas
-I am a **Professor** in the Department of Electrical and Computer Engineering at the **University of Thessaly**, Greece. My career spans both high-level academic research and significant industrial leadership in the United States.
+Welcome to my webpage! I am a professor in the Electrical Engineering and Computer Science Department at the University of Thessaly, and a member of the CSL group. My career spans both high-level academic research and significant industrial leadership in the United States. 
+Previously, I was an Assistant Professor in the Electrical and Computer Engineering Department at Cornell University, a member of the Computer Systems Laboratory (CSL), and the John and Norma Balen Sesquicentennial Faculty Fellow. My main interests are in computer architecture and computer systems. Specifically, I work on improving the resource efficiency of large-scale datacenters through QoS-aware scheduling and resource management techniques. I am also interested in designing efficient server architectures, distributed performance debugging, and cloud security. Before joining Cornell, I earned a Ph.D. in Electrical Engineering at Stanford University, where I worked with Christos Kozyrakis. I had previously earned an M.S. in Electrical Engineering from Stanford (2011) and a Diploma in Electrical and Computer Engineering from the National Technical University of Athens (2009). 
 
 ## 🔬 Research Interests
 My research focuses on the architectural design of computing systems, specifically:
