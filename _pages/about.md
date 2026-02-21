@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Nikolaos Bellas
-I am a **Professor** in the Department of Electrical and Computer Engineering at the **University of Thessaly**, Greece[cite: 16]. [cite_start]My career spans both high-level academic research and significant industrial leadership in the United States[cite: 16, 27].
+I am a **Professor** in the Department of Electrical and Computer Engineering at the **University of Thessaly**, Greece. My career spans both high-level academic research and significant industrial leadership in the United States.
 
 ## 🔬 Research Interests
 My research focuses on the architectural design of computing systems, specifically:
