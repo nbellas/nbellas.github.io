@@ -8,14 +8,13 @@ redirect_from:
 ---
 
 # Nikolaos Bellas
-
-[cite_start]I am a **Professor** in the Department of Electrical and Computer Engineering at the **University of Thessaly**, Greece[cite: 16]. [cite_start]My career spans both high-level academic research and significant industrial leadership in the United States[cite: 16, 27].
+I am a **Professor** in the Department of Electrical and Computer Engineering at the **University of Thessaly**, Greece[cite: 16]. [cite_start]My career spans both high-level academic research and significant industrial leadership in the United States[cite: 16, 27].
 
 ## 🔬 Research Interests
 My research focuses on the architectural design of computing systems, specifically:
-* [cite_start]**Hardware-Software Co-design**: ML for system design, reconfigurable systems, and heterogeneous architectures[cite: 12].
-* [cite_start]**Energy-Efficiency & Reliability**: Low-power design, approximate computing, and reliable computing substrates[cite: 12, 14].
-* [cite_start]**System Software**: EDA tools for architectural synthesis and software support for modern accelerators[cite: 14].
+**Hardware-Software Co-design**: ML for system design, reconfigurable systems, and heterogeneous architectures[cite: 12].
+**Energy-Efficiency & Reliability**: Low-power design, approximate computing, and reliable computing substrates[cite: 12, 14].
+**System Software**: EDA tools for architectural synthesis and software support for modern accelerators[cite: 14].
   
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
