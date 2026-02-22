@@ -32,17 +32,17 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[COMP'2014]** Dimitrios Nikolopoulos, Hans Vandierendock, Nikolaos Bellas, Christos D. Antonopoulos, Spyros Lalis, Georgios Karakonstantis, Andreas Burg, Uwe Naumann. Energy Efficiency through Significance-Based Computing. *IEEE Computer*. Vol. 47. Issue 7. Pg. 82-85. July 2014. ([pdf](/files/IEEEComputer_2014.pdf))
 
-**[TCE'2011]** Maria Koziri, Dimitris Zacharis, Ioannis Katsavounidis, Nikolaos Bellas. Implementation of the AVS Video Decoder on a Heterogeneous Dual-Core SIMD Processor. *IEEE Transactions on Consumer Electronics*, vol. 57, No. 2, pp. 673-681, May 2011. ([pdf](/files/TPDS2020.pdf))
+**[TCE'2011]** Maria Koziri, Dimitris Zacharis, Ioannis Katsavounidis, Nikolaos Bellas. Implementation of the AVS Video Decoder on a Heterogeneous Dual-Core SIMD Processor. *IEEE Transactions on Consumer Electronics*, vol. 57, No. 2, pp. 673-681, May 2011. ([pdf](/files/IEEETransactionsConsumerElectronics_2011.pdf))
 
-**[TCAD'2008]** Seda Ogrenci Memik, Nikolaos Bellas, Somsubhra Mondal. Pre-synthesis Area Estimation of Reconfigurable Streaming Accelerators. *IEEE Transactions on Computer-Aided Design*, Volume: 27, No: 11, pp. 2027-2038, November 2008. ([pdf](/files/TPDS2020.pdf))
+**[TCAD'2008]** Seda Ogrenci Memik, Nikolaos Bellas, Somsubhra Mondal. Pre-synthesis Area Estimation of Reconfigurable Streaming Accelerators. *IEEE Transactions on Computer-Aided Design*, Volume: 27, No: 11, pp. 2027-2038, November 2008. ([pdf](/files/TCAD_2008.pdf))
 
 **[CAN'2007]** Nikolaos Bellas, Sek Chai, Malcolm Dwyer, Dan Linzmeier. Mapping streaming architectures on reconfigurable platforms. *ACM SIGARCH Computer Architecture News*. Volume 35, Issue 3, Pages: 2 – 8, June 2007.([pdf](/files/SigArch2007.pdf))
 
-**[TVLSI'2000]** Nikolaos Bellas, Ibrahim Hajj, Constantine Polychronopoulos. Using dynamic cache management techniques to reduce energy in general-purpose Processors. *IEEE Transactions on VLSI Systems*, Volume: 8, Issue: 6, pp. 693-708, December 2000. ([pdf](/files/TPDS2020.pdf))
+**[TVLSI'2000]** Nikolaos Bellas, Ibrahim Hajj, Constantine Polychronopoulos. Using dynamic cache management techniques to reduce energy in general-purpose Processors. *IEEE Transactions on VLSI Systems*, Volume: 8, Issue: 6, pp. 693-708, December 2000. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
 
-**[TVLSI'2000]** Nikolaos Bellas, Ibrahim Hajj, Constantine Polychronopoulos, George Stamoulis. Architectural and Compiler Techniques for Energy Reduction in High-Performance Microprocessors. *IEEE Transactions on VLSI Systems*, Special Issue on Low Power, Volume:8, Issue:3, pp. 317-326, June 2000. ([pdf](/files/TPDS2020.pdf))
+**[TVLSI'2000]** Nikolaos Bellas, Ibrahim Hajj, Constantine Polychronopoulos, George Stamoulis. Architectural and Compiler Techniques for Energy Reduction in High-Performance Microprocessors. *IEEE Transactions on VLSI Systems*, Special Issue on Low Power, Volume:8, Issue:3, pp. 317-326, June 2000. ([pdf](/files/IEEETransactionsVLSI_June2000.pdf))
 
-**[TC'1996]** Amber-Roy Chowdhury, Nikolaos Bellas, Prithviraj Banerjee. Algorithm-Based Error Detection Schemes for Iterative Solution of Partial Differential Equations. *IEEE Transactions on Computers*, pp. 394-407, Vol. 45, Number 4, April 1996. ([pdf](/files/TPDS2020.pdf))
+**[TC'1996]** Amber-Roy Chowdhury, Nikolaos Bellas, Prithviraj Banerjee. Algorithm-Based Error Detection Schemes for Iterative Solution of Partial Differential Equations. *IEEE Transactions on Computers*, pp. 394-407, Vol. 45, Number 4, April 1996. ([pdf](/files/IEEETransactionsComputers_1996.pdf.pdf))
 
 ## Conference and Workshop Articles
 
