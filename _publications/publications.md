@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 classes:
   - publications-small
+  - wide
 ---
 
 <div class="publications-small" markdown="1">
