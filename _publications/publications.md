@@ -42,7 +42,7 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[TVLSI'2000]** Nikolaos Bellas, Ibrahim Hajj, Constantine Polychronopoulos, George Stamoulis. Architectural and Compiler Techniques for Energy Reduction in High-Performance Microprocessors. *IEEE Transactions on VLSI Systems*, Special Issue on Low Power, Volume:8, Issue:3, pp. 317-326, June 2000. ([pdf](/files/IEEETransactionsVLSI_June2000.pdf))
 
-**[TC'1996]** Amber-Roy Chowdhury, Nikolaos Bellas, Prithviraj Banerjee. Algorithm-Based Error Detection Schemes for Iterative Solution of Partial Differential Equations. *IEEE Transactions on Computers*, pp. 394-407, Vol. 45, Number 4, April 1996. ([pdf](/files/IEEETransactionsComputers_1996.pdf.pdf))
+**[TC'1996]** Amber-Roy Chowdhury, Nikolaos Bellas, Prithviraj Banerjee. Algorithm-Based Error Detection Schemes for Iterative Solution of Partial Differential Equations. *IEEE Transactions on Computers*, pp. 394-407, Vol. 45, Number 4, April 1996. ([pdf](/files/IEEETransactionsComputers_1996.pdf))
 
 ## Conference and Workshop Articles
 
