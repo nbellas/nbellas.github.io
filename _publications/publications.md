@@ -6,6 +6,7 @@ author_profile: true
 classes:
   - publications-small
 ---
+TEST-PUBLICATIONS-MD
 
 ## Journal Articles
 
