@@ -36,7 +36,7 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[TCAD'2008]** Seda Ogrenci Memik, Nikolaos Bellas, Somsubhra Mondal. Pre-synthesis Area Estimation of Reconfigurable Streaming Accelerators. *IEEE Transactions on Computer-Aided Design*, Volume: 27, No: 11, pp. 2027-2038, November 2008.
 
-**[CAL'2007]** Nikolaos Bellas, Sek Chai, Malcolm Dwyer, Dan Linzmeier. Mapping streaming architectures on reconfigurable platforms. *ACM SIGARCH Computer Architecture News*. Volume 35, Issue 3, Pages: 2 – 8, June 2007.
+**[CAN'2007]** Nikolaos Bellas, Sek Chai, Malcolm Dwyer, Dan Linzmeier. Mapping streaming architectures on reconfigurable platforms. *ACM SIGARCH Computer Architecture News*. Volume 35, Issue 3, Pages: 2 – 8, June 2007.
 
 **[TVLSI'2000]** Nikolaos Bellas, Ibrahim Hajj, Constantine Polychronopoulos. Using dynamic cache management techniques to reduce energy in general-purpose Processors. *IEEE Transactions on VLSI Systems*, Volume: 8, Issue: 6, pp. 693-708, December 2000.
 
