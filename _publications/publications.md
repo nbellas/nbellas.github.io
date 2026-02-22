@@ -54,17 +54,17 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[IWOCL'2024]** Ioanna-Maria Panagou, Nikolaos Bellas, Lorenzo Moneta and Sanjiban Sengupta. Accelerating Machine Learning Inference on GPUs with SYCL. *12th International Workshop on OpenCL and SYCL (IWOCL)*. April 8-11, 2024. Chicago, IL.
 
-**[C55]** Alexandros Patras et al. A Minimal Testbed for Experimenting with Flexible Resource and Application Management in Heterogeneous Edge-Cloud Systems. *International Conference on Embedded Wireless Systems and Networks (EWSN)*. September 25-27, 2023. Rende, Italy.
+**[EWSN'2023]** Alexandros Patras et al. A Minimal Testbed for Experimenting with Flexible Resource and Application Management in Heterogeneous Edge-Cloud Systems. *International Conference on Embedded Wireless Systems and Networks (EWSN)*. September 25-27, 2023. Rende, Italy.
 
-**[C54]** Antonios-Kyrillos Chatzimichail, Charalampos Antoniadis, Nikolaos Bellas, Yehia Massoud. Low Power Hardware Architecture for Sampling-Free Bayesian Neural Networks Inference. *IEEE International Symposium on Circuits and Systems (ISCAS)*. May 21-25, 2023. Monterrey, CA. (Poster).
+**[ISCAS'2023]** Antonios-Kyrillos Chatzimichail, Charalampos Antoniadis, Nikolaos Bellas, Yehia Massoud. Low Power Hardware Architecture for Sampling-Free Bayesian Neural Networks Inference. *IEEE International Symposium on Circuits and Systems (ISCAS)*. May 21-25, 2023. Monterrey, CA. (Poster).
 
-**[C53]** Ioanna-Maria Panagou et al. FPGA Roofline modeling and its Application to Visual SLAM. *32th International Symposium on Field Programmable Logic and Applications (FPL)*. August 29-September 2, 2022. (Short paper).
+**[FPL'2022]** Ioanna-Maria Panagou et al. FPGA Roofline modeling and its Application to Visual SLAM. *32th International Symposium on Field Programmable Logic and Applications (FPL)*. August 29-September 2, 2022. (Short paper).
 
-**[C52]** Christos Kalogirou, Christos D. Antonopoulos, Spyros Lalis, and Nikolaos Bellas. Dynamic Management of CPU Resources Towards Energy Efficient and Profitable Datacentre Operation. *25th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP)*, in conjunction with IPDPS 2022. June 3, 2022, Lyon, France.
+**[JSSPP'2022]** Christos Kalogirou, Christos D. Antonopoulos, Spyros Lalis, and Nikolaos Bellas. Dynamic Management of CPU Resources Towards Energy Efficient and Profitable Datacentre Operation. *25th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP)*, in conjunction with IPDPS 2022. June 3, 2022, Lyon, France.
 
-**[C51]** Maria Rafaela Gkeka et al. FPGA Accelerators for Robust Visual SLAM on Humanoid Robots. *30th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)*. Feb. 27- March 1, 2022. Virtual Event. (Poster).
+**[FPGA'2022]** Maria Rafaela Gkeka et al. FPGA Accelerators for Robust Visual SLAM on Humanoid Robots. *30th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)*. Feb. 27- March 1, 2022. Virtual Event. (Poster).
 
-**[C50]** Nikolaos Bellas, et al. Architectures for SLAM and Augmented Reality Computing. *31th International Symposium on Field Programmable Logic and Applications (FPL)*. August 30-September 3, 2021. Virtual event. (Project paper).
+**[FPL'2021]** Nikolaos Bellas, et al. Architectures for SLAM and Augmented Reality Computing. *31th International Symposium on Field Programmable Logic and Applications (FPL)*. August 30-September 3, 2021. Virtual event. (Project paper).
 
 **[C49]** Emmanouil Maroudas, Christos Antonopoulos, Nikolaos Bellas and Spyros Lalis. Exploring the Potential of Context-Aware Dynamic CPU Undervolting. *ACM International Conference on Computing Frontiers*. May 11-13, 2021. Virtual Conference. (Best Paper Award).
 
