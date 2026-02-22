@@ -48,7 +48,7 @@ author:
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
+  codepen          : # Usernamef
   dribbble         : # Username
   github           : "nbellas"
   kaggle           : # Username  
@@ -91,7 +91,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  "images/profile.png" # filename of teaser fallback teaser image placed in /images/ for social media previews
+teaser                   : "images/NikosBellas_Photo.jpg" # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
