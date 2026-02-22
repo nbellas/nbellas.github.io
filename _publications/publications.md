@@ -10,7 +10,7 @@ classes:
 
 <div class="publications-small" markdown="1">
   
-<h2 style="color: #f00f28;">Journal Articles</h2>
+<h2 style="color: #f00f28;">Journals</h2>
 
 **[FGCS'2024]** Foivos Pournaropoulos, Alexandros Patras, Christos D. Antonopoulos, Nikos Bellas, Spyros Lalis.
 Fluidity: Providing Flexible Deployment and Adaptation Policy Experimentation for Serverless and Distributed Applications spanning Cloud-Edge-Mobile Environments. *Future Generation Computer Systems*. March 2024. ([pdf](/files/fgcs2024.pdf))
@@ -44,7 +44,7 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[TC'1996]** Amber-Roy Chowdhury, Nikolaos Bellas, Prithviraj Banerjee. Algorithm-Based Error Detection Schemes for Iterative Solution of Partial Differential Equations. *IEEE Transactions on Computers*, pp. 394-407, Vol. 45, Number 4, April 1996. ([pdf](/files/IEEETransactionsComputers_1996.pdf))
 
-## Conference and Workshop Articles
+<h2 style="color: #f00f28;">Conferences and Workshops</h2>
 
 **[CCGrid'2026]** Bowen Sun, Christos Antonopoulos, Evgenia Smirni, Bin Ren, Nikolaos Bellas, Spyros Lalis. Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing. *26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid)*. May 18-21, 2026. Sydney, Australia.
 
