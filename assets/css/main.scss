@@ -27,4 +27,5 @@
   "vendor/font-awesome/brands";
 
 
-.publications-small { font-size: 0.5em !important; }
+/* Publications page: reduce body text (robust) */
+.publications-small { font-size: 0.8em !important; line-height: 1.45 !important; }
