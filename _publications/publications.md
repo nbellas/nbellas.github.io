@@ -2,7 +2,7 @@
 title: "Publications"
 permalink: /publications/
 layout: single
-author_profile: true
+author_profile: false
 classes:
   - publications-small
   - wide
