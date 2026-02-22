@@ -102,4 +102,3 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 * **[C3]** Nikolaos Bellas et al. A detailed, transistor-level energy model for SRAM-based caches. *International Symposium of Circuits and Systems (ISCAS)*. June 1999, Orlando, FL.
 * **[C2]** Nikolaos Bellas et al. Architectural and Compiler Support for Energy Reduction in the Memory Hierarchy of High Performance Microprocessors. *Proceedings of the International Symposium of Low Power Electronics and Design (ISLPED)*. August 1998, Monterey, CA.
 * **[C1]** Nikolaos Bellas et al. A new scheme for I-Cache energy reduction in High Performance Processors. *Power-Driven Microarchitecture Workshop, International Symposium On Computer Architecture (ISCA)*. June 1998, Barcelona, Spain.
-* 
