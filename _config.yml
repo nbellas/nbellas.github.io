@@ -26,7 +26,7 @@ author:
   avatar           : "https://nbellas.github.io/images/NikosBellas_Photo.jpg"
   name             : *name
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Sekeri & Heyden, Volos, Greece"
   employer         : "University of Thessaly"
   uri              : # URL
