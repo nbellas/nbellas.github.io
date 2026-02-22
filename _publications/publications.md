@@ -7,10 +7,10 @@ author_profile: true
 
 # Journal Articles
 
-* **[J15]** Foivos Pournaropoulos, Alexandros Patras, Christos D. Antonopoulos, Nikos Bellas, Spyros Lalis.
-* Fluidity: Providing Flexible Deployment and Adaptation Policy Experimentation for Serverless and Distributed Applications spanning Cloud-Edge-Mobile Environments. *Future Generation Computer Systems*. March 2024.
-* **[J14]** Maria-Rafaela Gkeka, Alexandros Patras, Nikolaos Tavoularis, Stylianos Piperakis, Emmanouil Hourdakis, Panos Trahanias, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas.
-* Reconfigurable System-on-Chip Architectures for Robust Visual SLAM on Humanoid Robots. *ACM Transactions on Embedded Computing Systems*. Vol. 23, No.2, March-April 2023.
+**[J15]** Foivos Pournaropoulos, Alexandros Patras, Christos D. Antonopoulos, Nikos Bellas, Spyros Lalis.
+Fluidity: Providing Flexible Deployment and Adaptation Policy Experimentation for Serverless and Distributed Applications spanning Cloud-Edge-Mobile Environments. *Future Generation Computer Systems*. March 2024.
+
+**[J14]** Maria-Rafaela Gkeka, Alexandros Patras, Nikolaos Tavoularis, Stylianos Piperakis, Emmanouil Hourdakis, Panos Trahanias, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas. Reconfigurable System-on-Chip Architectures for Robust Visual SLAM on Humanoid Robots. *ACM Transactions on Embedded Computing Systems*. Vol. 23, No.2, March-April 2023.
 * **[J13]** P. Koutsovasilis, C. Antonopoulos, N. Bellas, S. Lalis, G. Papadimitriou, A. Chatzidimitriou, and D. Gizopoulos.
 * The Impact of CPU Voltage Margins on Power-Constrained Execution. *IEEE Transactions on Sustainable Computing*, vol. 7, no. 1, pp. 221-234, Jan.-March 2022.
 * **[J12]** Panos Koutsovasilis, Konstantinos Parasyris, Christos D. Antonopoulos, Nikolaos Bellas, Spyros Lalis.
