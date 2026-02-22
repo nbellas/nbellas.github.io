@@ -8,7 +8,7 @@ classes:
   - wide
 ---
 
-<div class="publications-small" markdown="1">
+<div class="publications-small wide" markdown="1">
   
 ## Journal Articles
 
