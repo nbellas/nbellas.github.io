@@ -6,7 +6,7 @@ author_profile: true
 classes:
   - publications-small
 ---
-<div style="font-size: 80%;" markdown="1">
+<div style="font-size: 20%;" markdown="1">
   
 ## Journal Articles
 
