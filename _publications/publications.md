@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Peer Reviewed Publications"
 permalink: /publications/
 layout: single
 author_profile: true
