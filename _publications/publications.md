@@ -22,27 +22,27 @@ Fluidity: Providing Flexible Deployment and Adaptation Policy Experimentation fo
 **[TPDS'2020]** Panos Koutsovasilis, Konstantinos Parasyris, Christos D. Antonopoulos, Nikolaos Bellas, Spyros Lalis.
 Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE Transactions on Parallel and Distributed Systems (TPDS)*. pg. 2851-2864. Vol. 31 (12). December 2020. ([pdf](/files/TPDS2020.pdf))
 
-**[TACO'2017]** Konstantinos Parasyris, Vassilis Vassiliadis, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas. Significance-Aware Program Execution on Unreliable Hardware. *ACM Transactions on Architecture and Code Optimization (TACO)*. Vol. 14 (2). April 2017.
+**[TACO'2017]** Konstantinos Parasyris, Vassilis Vassiliadis, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas. Significance-Aware Program Execution on Unreliable Hardware. *ACM Transactions on Architecture and Code Optimization (TACO)*. Vol. 14 (2). April 2017. ([pdf](/files/TACO_2017.pdf))
 
-**[IJPP'2016]** Vassilis Vassiliadis, Charalampos Chalios, Konstantinos Parasyris, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas, Hans Vandierendonck, Dimitrios S. Nikolopoulos. Exploiting Significance of Computations for Energy-Constrained Approximate Computing. *International Journal of Parallel Programming (IJPP)*. pg. 1078-1098. March 2016.
+**[IJPP'2016]** Vassilis Vassiliadis, Charalampos Chalios, Konstantinos Parasyris, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas, Hans Vandierendonck, Dimitrios S. Nikolopoulos. Exploiting Significance of Computations for Energy-Constrained Approximate Computing. *International Journal of Parallel Programming (IJPP)*. pg. 1078-1098. March 2016. ([pdf](/files/IJPP_2016.pdf))
 
-**[JSPS'2016]** K. Krommydas, Wu-chun Feng, Christos D. Antonopoulos, and N. Bellas. OpenDwarfs: Characterization of Dwarf-Based Benchmarks on Fixed and Reconfigurable Architectures. *Journal of Signal Processing Systems*. US Springer, 85(3), pg. 373-392. 2016.
+**[JSPS'2016]** K. Krommydas, Wu-chun Feng, Christos D. Antonopoulos, and N. Bellas. OpenDwarfs: Characterization of Dwarf-Based Benchmarks on Fixed and Reconfigurable Architectures. *Journal of Signal Processing Systems*. US Springer, 85(3), pg. 373-392. 2016. ([pdf](/files/JPSP_opendwarfs-j-signproc15.pdf))
 
-**[TECS'2015]** M. Owaida, G. Falcao, J. Andrade, C. Antonopoulos, N. Bellas, M. Purnaprajna, D. Novo, G. Karakonstantis, A. Burg, and P. Ienne. Enhancing design space exploration by extending CPU/GPU specifications onto FPGAs. *ACM Transactions on Embedded Computing Systems (TECS)*. Vol 14(2). March 2015.
+**[TECS'2015]** M. Owaida, G. Falcao, J. Andrade, C. Antonopoulos, N. Bellas, M. Purnaprajna, D. Novo, G. Karakonstantis, A. Burg, and P. Ienne. Enhancing design space exploration by extending CPU/GPU specifications onto FPGAs. *ACM Transactions on Embedded Computing Systems (TECS)*. Vol 14(2). March 2015. ([pdf](/files/TECS_2015.pdf))
 
-**[COMP'2014]** Dimitrios Nikolopoulos, Hans Vandierendock, Nikolaos Bellas, Christos D. Antonopoulos, Spyros Lalis, Georgios Karakonstantis, Andreas Burg, Uwe Naumann. Energy Efficiency through Significance-Based Computing. *IEEE Computer*. Vol. 47. Issue 7. Pg. 82-85. July 2014.
+**[COMP'2014]** Dimitrios Nikolopoulos, Hans Vandierendock, Nikolaos Bellas, Christos D. Antonopoulos, Spyros Lalis, Georgios Karakonstantis, Andreas Burg, Uwe Naumann. Energy Efficiency through Significance-Based Computing. *IEEE Computer*. Vol. 47. Issue 7. Pg. 82-85. July 2014. ([pdf](/files/IEEEComputer_2014.pdf))
 
-**[TCE'2011]** Maria Koziri, Dimitris Zacharis, Ioannis Katsavounidis, Nikolaos Bellas. Implementation of the AVS Video Decoder on a Heterogeneous Dual-Core SIMD Processor. *IEEE Transactions on Consumer Electronics*, vol. 57, No. 2, pp. 673-681, May 2011.
+**[TCE'2011]** Maria Koziri, Dimitris Zacharis, Ioannis Katsavounidis, Nikolaos Bellas. Implementation of the AVS Video Decoder on a Heterogeneous Dual-Core SIMD Processor. *IEEE Transactions on Consumer Electronics*, vol. 57, No. 2, pp. 673-681, May 2011. ([pdf](/files/TPDS2020.pdf))
 
-**[TCAD'2008]** Seda Ogrenci Memik, Nikolaos Bellas, Somsubhra Mondal. Pre-synthesis Area Estimation of Reconfigurable Streaming Accelerators. *IEEE Transactions on Computer-Aided Design*, Volume: 27, No: 11, pp. 2027-2038, November 2008.
+**[TCAD'2008]** Seda Ogrenci Memik, Nikolaos Bellas, Somsubhra Mondal. Pre-synthesis Area Estimation of Reconfigurable Streaming Accelerators. *IEEE Transactions on Computer-Aided Design*, Volume: 27, No: 11, pp. 2027-2038, November 2008. ([pdf](/files/TPDS2020.pdf))
 
-**[CAN'2007]** Nikolaos Bellas, Sek Chai, Malcolm Dwyer, Dan Linzmeier. Mapping streaming architectures on reconfigurable platforms. *ACM SIGARCH Computer Architecture News*. Volume 35, Issue 3, Pages: 2 – 8, June 2007.
+**[CAN'2007]** Nikolaos Bellas, Sek Chai, Malcolm Dwyer, Dan Linzmeier. Mapping streaming architectures on reconfigurable platforms. *ACM SIGARCH Computer Architecture News*. Volume 35, Issue 3, Pages: 2 – 8, June 2007.([pdf](/files/SigArch2007.pdf))
 
-**[TVLSI'2000]** Nikolaos Bellas, Ibrahim Hajj, Constantine Polychronopoulos. Using dynamic cache management techniques to reduce energy in general-purpose Processors. *IEEE Transactions on VLSI Systems*, Volume: 8, Issue: 6, pp. 693-708, December 2000.
+**[TVLSI'2000]** Nikolaos Bellas, Ibrahim Hajj, Constantine Polychronopoulos. Using dynamic cache management techniques to reduce energy in general-purpose Processors. *IEEE Transactions on VLSI Systems*, Volume: 8, Issue: 6, pp. 693-708, December 2000. ([pdf](/files/TPDS2020.pdf))
 
-**[TVLSI'2000]** Nikolaos Bellas, Ibrahim Hajj, Constantine Polychronopoulos, George Stamoulis. Architectural and Compiler Techniques for Energy Reduction in High-Performance Microprocessors. *IEEE Transactions on VLSI Systems*, Special Issue on Low Power, Volume:8, Issue:3, pp. 317-326, June 2000.
+**[TVLSI'2000]** Nikolaos Bellas, Ibrahim Hajj, Constantine Polychronopoulos, George Stamoulis. Architectural and Compiler Techniques for Energy Reduction in High-Performance Microprocessors. *IEEE Transactions on VLSI Systems*, Special Issue on Low Power, Volume:8, Issue:3, pp. 317-326, June 2000. ([pdf](/files/TPDS2020.pdf))
 
-**[TC'1996]** Amber-Roy Chowdhury, Nikolaos Bellas, Prithviraj Banerjee. Algorithm-Based Error Detection Schemes for Iterative Solution of Partial Differential Equations. *IEEE Transactions on Computers*, pp. 394-407, Vol. 45, Number 4, April 1996.
+**[TC'1996]** Amber-Roy Chowdhury, Nikolaos Bellas, Prithviraj Banerjee. Algorithm-Based Error Detection Schemes for Iterative Solution of Partial Differential Equations. *IEEE Transactions on Computers*, pp. 394-407, Vol. 45, Number 4, April 1996. ([pdf](/files/TPDS2020.pdf))
 
 ## Conference and Workshop Articles
 
