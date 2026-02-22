@@ -80,31 +80,31 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[DSN'2018]** K. Parasyris et al. A Framework for Evaluating Software on Reduced Margins Hardware. *International Conference on Dependable Systems and Networks (DSN)*. June 25-28, 2018. Luxemburg.
 
-**[C42]** Georgios Karakonstantis et al. An Energy-Efficient and Error-Resilient Server Ecosystem Exceeding Conservative Scaling Limits. *IEEE Conference on Design, Automation and Test in Europe (DATE)*. March 2018. Dresden, Germany.
+**[DATE'2018]** Georgios Karakonstantis et al. An Energy-Efficient and Error-Resilient Server Ecosystem Exceeding Conservative Scaling Limits. *IEEE Conference on Design, Automation and Test in Europe (DATE)*. March 2018. Dresden, Germany.
 
-**[C41]** Christos Kalogirou et al. Edge and Cloud Provider Cost Minimization by Exploiting Extended Voltage and Frequency Margins. *International Conference on Parallel Computing (PARCO)*. September 12-15, 2017, Bologna, Italy.
+**[PARCO'2017]** Christos Kalogirou et al. Edge and Cloud Provider Cost Minimization by Exploiting Extended Voltage and Frequency Margins. *International Conference on Parallel Computing (PARCO)*. September 12-15, 2017, Bologna, Italy.
 
-**[C40]** Ioannis Parnassos et al. Programming Model and Runtime System for Approximation-Aware Heterogeneous Computing. *27th International Symposium on Field Programmable Logic and Applications (FPL)*. September 4-8, 2017. Ghent, Belgium.
+**[FPL'2017]** Ioannis Parnassos et al. Programming Model and Runtime System for Approximation-Aware Heterogeneous Computing. *27th International Symposium on Field Programmable Logic and Applications (FPL)*. September 4-8, 2017. Ghent, Belgium.
 
-**[C39]** Ioannis Parnassos et al. SoCLog: A Real-Time, Automatically Generated Logging and Profiling Mechanism for FPGA-based Systems On Chip. *26th International Symposium on Field Programmable Logic and Applications (FPL)*. August 28 September 2, 2016. Lausanne, Switzerland.
+**[FPL'2016]** Ioannis Parnassos et al. SoCLog: A Real-Time, Automatically Generated Logging and Profiling Mechanism for FPGA-based Systems On Chip. *26th International Symposium on Field Programmable Logic and Applications (FPL)*. August 28 September 2, 2016. Lausanne, Switzerland.
 
-**[C38]** Vassilis Vassiliadis et al. Towards Automatic Significance Analysis for Approximate Computing. *International Symposium on Code Generation and Optimization (CGO)*. March 14-16, 2016. Barcelona, Spain.
+**[CGO'2016]** Vassilis Vassiliadis et al. Towards Automatic Significance Analysis for Approximate Computing. *International Symposium on Code Generation and Optimization (CGO)*. March 14-16, 2016. Barcelona, Spain.
 
-**[C37]** Michalis Spyrou et al. Energy Minimization on Heterogeneous Systems through Approximate Computing. *International Conference on Parallel Computing (PARCO)*. September 1-4, 2015. Edinburgh, UK.
+**[PARCO'2015]** Michalis Spyrou et al. Energy Minimization on Heterogeneous Systems through Approximate Computing. *International Conference on Parallel Computing (PARCO)*. September 1-4, 2015. Edinburgh, UK.
 
-**[C36]** Vassilis Vassiliadis et al. A Significance-Driven Programming Framework for Energy-Constrained Approximate Computing. *ACM International Conference on Computing Frontiers*. May 18-21, 2015. Ischia, Italy.
+**[CF'2015]** Vassilis Vassiliadis et al. A Significance-Driven Programming Framework for Energy-Constrained Approximate Computing. *ACM International Conference on Computing Frontiers*. May 18-21, 2015. Ischia, Italy.
 
-**[C35]** Konstantinos Parasyris et al. A Significance-Aware Software Stack for Computing on Unreliable Hardware. *Second Workshop on Approximate Computing Across the System Stack (WACAS)*. March 15, 2015. Istanbul, Turkey.
+**[WACAS'2015]** Konstantinos Parasyris et al. A Significance-Aware Software Stack for Computing on Unreliable Hardware. *Second Workshop on Approximate Computing Across the System Stack (WACAS)*. March 15, 2015. Istanbul, Turkey.
 
-**[C34]** Vassilis Vassiliadis et al. A programming model and runtime system for significance-aware energy-efficient computing. *ACM SIGPLAN 20th Symposium on Principles and Practice of Parallel Programming (PPoPP)*. February 9-11, 2015. San Francisco, CA.
+**[PPoPP'2015]** Vassilis Vassiliadis et al. A programming model and runtime system for significance-aware energy-efficient computing. *ACM SIGPLAN 20th Symposium on Principles and Practice of Parallel Programming (PPoPP)*. February 9-11, 2015. San Francisco, CA.
 
-**[C33]** Konstantinos Parasyris et al. GemFI: A Fault Injection Tool for Studying the Behavior of Applications on Unreliable Substrates. *International Conference on Dependable Systems and Networks (DSN)*. June 23-26, 2014. Atlanta, GA.
+**[DSN'2014]** Konstantinos Parasyris et al. GemFI: A Fault Injection Tool for Studying the Behavior of Applications on Unreliable Substrates. *International Conference on Dependable Systems and Networks (DSN)*. June 23-26, 2014. Atlanta, GA.
 
-**[C32]** Konstantinos Krommydas et al. On the Portability of OpenCL Dwarfs on Fixed and Reconfigurable Parallel Platforms. *25th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*. June 18-20, 2014, Zurich, Switzerland. (Nominated for Best Paper Award).
+**[ASAP'2014]** Konstantinos Krommydas et al. On the Portability of OpenCL Dwarfs on Fixed and Reconfigurable Parallel Platforms. *25th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*. June 18-20, 2014, Zurich, Switzerland. (Nominated for Best Paper Award).
 
-**[C31]** Muhsen Owaida, Christos D. Antonopoulos, Nikolaos Bellas. A Grammar Induction Method for Clustering of Operations in Complex FPGA Designs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 11-13, 2014. Boston, MA.
+**[FCCM'2014]** Muhsen Owaida, Christos D. Antonopoulos, Nikolaos Bellas. A Grammar Induction Method for Clustering of Operations in Complex FPGA Designs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 11-13, 2014. Boston, MA.
 
-**[C30]** Gabriel Falcao et al. Shortening design time through multiplatform simulations with a portable OpenCL golden model: the LDPC decoder case. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April-May 2012. Toronto, ON.
+**[FCCM'2012]** Gabriel Falcao et al. Shortening design time through multiplatform simulations with a portable OpenCL golden model: the LDPC decoder case. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April-May 2012. Toronto, ON.
 
 **[C29]** Muhsen Owaida et al. Massively Parallel Programing Models Used as Hardware Description Languages: The OpenCL Case. *International Conference on Computer-Aided Design (ICCAD)*. November 6-10, 2011, San Jose, CA.
 
