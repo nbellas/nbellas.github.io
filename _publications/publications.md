@@ -44,11 +44,12 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[TC'1996]** Amber-Roy Chowdhury, Nikolaos Bellas, Prithviraj Banerjee. Algorithm-Based Error Detection Schemes for Iterative Solution of Partial Differential Equations. *IEEE Transactions on Computers*, pp. 394-407, Vol. 45, Number 4, April 1996. ([pdf](/files/IEEETransactionsComputers_1996.pdf))
 
+
 <h2 style="color: #f00f28;">Conferences and Workshops</h2>
 
 **[CCGrid'2026]** Bowen Sun, Christos Antonopoulos, Evgenia Smirni, Bin Ren, Nikolaos Bellas, Spyros Lalis. Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing. *26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid)*. May 18-21, 2026. Sydney, Australia.
 
-**[DATE'2026]** Alexandros Patras, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas. DPUConfig: Optimizing ML Inference in FPGAs Using Reinforcement Learning. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. April 20-22, 2026. Verona, Italy. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[DATE'2026]** Alexandros Patras, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas. DPUConfig: Optimizing ML Inference in FPGAs Using Reinforcement Learning. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. April 20-22, 2026. Verona, Italy. ([pdf](/files/488_pdf_upload_v1.pdf))
 
 **[ICS'2025]** Jiexiong Guan, Zhenqing Hu, Christos D. Antonopoulos, Nikolaos Bellas, Spyros Lalis, Evgenia Smirni, Gang Zhou, Gagan Agrawal, Bin Ren. Modeling Texture Memory and Mobile GPU Performance to Accelerate DNN Computations. *39th International Conference on Supercomputing (ICS)*. June 8-11, 2025. Salt Lake City, UT. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
 
