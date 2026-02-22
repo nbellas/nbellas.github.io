@@ -12,7 +12,6 @@ classes:
 
 **[J15]** Foivos Pournaropoulos, Alexandros Patras, Christos D. Antonopoulos, Nikos Bellas, Spyros Lalis.
 Fluidity: Providing Flexible Deployment and Adaptation Policy Experimentation for Serverless and Distributed Applications spanning Cloud-Edge-Mobile Environments. *Future Generation Computer Systems*. March 2024. 
-</div>
 
 **[J14]** Maria-Rafaela Gkeka, Alexandros Patras, Nikolaos Tavoularis, Stylianos Piperakis, Emmanouil Hourdakis, Panos Trahanias, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas. Reconfigurable System-on-Chip Architectures for Robust Visual SLAM on Humanoid Robots. *ACM Transactions on Embedded Computing Systems*. Vol. 23, No.2, March-April 2023.
 
@@ -103,4 +102,7 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 * **[C4]** Nikolaos Bellas et al. Using dynamic cache management techniques to reduce energy in a high-performance microprocessor. *International Symposium of Low Power Electronics and Design (ISLPED)*. August 1999, San Diego, CA.
 * **[C3]** Nikolaos Bellas et al. A detailed, transistor-level energy model for SRAM-based caches. *International Symposium of Circuits and Systems (ISCAS)*. June 1999, Orlando, FL.
 * **[C2]** Nikolaos Bellas et al. Architectural and Compiler Support for Energy Reduction in the Memory Hierarchy of High Performance Microprocessors. *Proceedings of the International Symposium of Low Power Electronics and Design (ISLPED)*. August 1998, Monterey, CA.
-* **[C1]** Nikolaos Bellas et al. A new scheme for I-Cache energy reduction in High Performance Processors. *Power-Driven Microarchitecture Workshop, International Symposium On Computer Architecture (ISCA)*. June 1998, Barcelona, Spain.
+
+**[C1]** Nikolaos Bellas et al. A new scheme for I-Cache energy reduction in High Performance Processors. *Power-Driven Microarchitecture Workshop, International Symposium On Computer Architecture (ISCA)*. June 1998, Barcelona, Spain.
+
+</div>
