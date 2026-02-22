@@ -106,62 +106,62 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[FCCM'2012]** Gabriel Falcao et al. Shortening design time through multiplatform simulations with a portable OpenCL golden model: the LDPC decoder case. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April-May 2012. Toronto, ON.
 
-**[C29]** Muhsen Owaida et al. Massively Parallel Programing Models Used as Hardware Description Languages: The OpenCL Case. *International Conference on Computer-Aided Design (ICCAD)*. November 6-10, 2011, San Jose, CA.
+**[ICCAD'2011]** Muhsen Owaida et al. Massively Parallel Programing Models Used as Hardware Description Languages: The OpenCL Case. *International Conference on Computer-Aided Design (ICCAD)*. November 6-10, 2011, San Jose, CA.
 
-**[C28]** Konstantinos Krommydas et al. AVS Video Decoder on Multicore Systems: Optimizations and Tradeoffs. *2011 International Conference on Multimedia and Expo (ICME)*. July 2011, Barcelona, Spain.
+**[ICME'2011]** Konstantinos Krommydas et al. AVS Video Decoder on Multicore Systems: Optimizations and Tradeoffs. *2011 International Conference on Multimedia and Expo (ICME)*. July 2011, Barcelona, Spain.
 
-**[C27]** Georgios Karakonstantis et al. Significance Driven Computation on Next Generation Unreliable Platforms. *Design Automation Conference (DAC), Wild And Crazy Ideas Session (WACI)*. June 5-10, 2011, San Diego, CA.
+**[WACI'2011]** Georgios Karakonstantis et al. Significance Driven Computation on Next Generation Unreliable Platforms. *Design Automation Conference (DAC), Wild And Crazy Ideas Session (WACI)*. June 5-10, 2011, San Diego, CA.
 
-**[C26]** Muhsen Owaida et al. Synthesis of Platform Architectures from OpenCL Programs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011, Salt Lake City, UT.
+**[FCCM1'2011]** Muhsen Owaida et al. Synthesis of Platform Architectures from OpenCL Programs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011, Salt Lake City, UT.
 
-**[C25]** Kostas Theocharoulis et al. Implementation and Performance Analysis of Seal Encryption on FPGA, GPU, and Multicore Processors. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011.
+**[FCCM2'2011]** Kostas Theocharoulis et al. Implementation and Performance Analysis of Seal Encryption on FPGA, GPU, and Multicore Processors. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011.
 
-**[C24]** Muhsen Owaida et al. Implementation and Performance Comparison of the Motion Compensation Kernel of the AVS Video Decoder on FPGA, GPU and Multicore Processors. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011.
+**[FCCM3'2011]** Muhsen Owaida et al. Implementation and Performance Comparison of the Motion Compensation Kernel of the AVS Video Decoder on FPGA, GPU and Multicore Processors. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011.
 
-**[C23]** Konstantis Daloukas, C.D. Antonopoulos, Nikolaos Bellas. GLOpenCL: OpenCL Support on Hardware- and Software-Managed Cache Multicores. *6th International Conference on High Performance Embedded Architectures & Compilers (HiPEAC)*. January 24-26, 2011, Heraklion, Greece.
+**[HiPEAC'2011]** Konstantis Daloukas, C.D. Antonopoulos, Nikolaos Bellas. GLOpenCL: OpenCL Support on Hardware- and Software-Managed Cache Multicores. *6th International Conference on High Performance Embedded Architectures & Compilers (HiPEAC)*. January 24-26, 2011, Heraklion, Greece.
 
-**[C22]** Konstantinos Krommidas et al. Mapping and Optimization of the AVS Video Decoder on a High Performance Chip Multiprocessor. *International Conference on Multimedia and Expo (ICME)*. July 19-23, 2010, Singapore.
+**[ICME'2010]** Konstantinos Krommidas et al. Mapping and Optimization of the AVS Video Decoder on a High Performance Chip Multiprocessor. *International Conference on Multimedia and Expo (ICME)*. July 19-23, 2010, Singapore.
 
-**[C21]** Konstantis Daloukas et al. Fisheye Lens Distortion Correction on Multicore and Hardware Accelerator Platforms. *24th International Parallel and Distributed Processing Symposium (IPDPS)*. April 19-23, 2010, Atlanta, GA.
+**[IPDPS'2010]** Konstantis Daloukas et al. Fisheye Lens Distortion Correction on Multicore and Hardware Accelerator Platforms. *24th International Parallel and Distributed Processing Symposium (IPDPS)*. April 19-23, 2010, Atlanta, GA.
 
-**[C20]** Nikolaos Bellas et al. Proteus: An Architectural Synthesis Tool based on the Streaming Programing Model. *19th International Conference on Field Programmable Logic and Applications (FPL)*. August/September 2009, Prague.
+**[FPL'2019]** Nikolaos Bellas et al. Proteus: An Architectural Synthesis Tool based on the Streaming Programing Model. *19th International Conference on Field Programmable Logic and Applications (FPL)*. August/September 2009, Prague.
 
-**[C19]** Sek M. Chai, Nikolaos Bellas, Abelardo Lopez Lagunas. Extending a Stream Programming Paradigm to Hardware Accelerator Platforms. *Symposium on Application Accelerators for High Performance Computing (SAAHPC)*. July 27-31 2009, Champaign, IL.
+**[SAAHPC'2009]** Sek M. Chai, Nikolaos Bellas, Abelardo Lopez Lagunas. Extending a Stream Programming Paradigm to Hardware Accelerator Platforms. *Symposium on Application Accelerators for High Performance Computing (SAAHPC)*. July 27-31 2009, Champaign, IL.
 
-**[C18]** Nikolaos Bellas et al. Mapping the AVS Video Decoder on a Heterogeneous Dual-Core SIMD Processor. *46th Design Automation Conference (DAC)*. July 26-31, 2009, San Francisco, CA.
+**[DAC'2009]** Nikolaos Bellas et al. Mapping the AVS Video Decoder on a Heterogeneous Dual-Core SIMD Processor. *46th Design Automation Conference (DAC)*. July 26-31, 2009, San Francisco, CA.
 
-**[C17]** Konstantis Daloukas, C.D. Antonopoulos, Nikolaos Bellas. Implementation of a Wide-angle Lens Distortion Correction Algorithm on the Cell Broadband Engine. *23rd International Conference on Supercomputing (ICS)*. June 8-12, 2009, New York Metro Area, NY.
+**[ICS'2009]** Konstantis Daloukas, C.D. Antonopoulos, Nikolaos Bellas. Implementation of a Wide-angle Lens Distortion Correction Algorithm on the Cell Broadband Engine. *23rd International Conference on Supercomputing (ICS)*. June 8-12, 2009, New York Metro Area, NY.
 
-**[C16]** Nikolaos Bellas et al. Real-Time Fisheye Lens Distortion Correction Using Automatically Generated Streaming Accelerators. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 5-7, 2009, Napa Valley, CA.
+**[FCCM'2009]** Nikolaos Bellas et al. Real-Time Fisheye Lens Distortion Correction Using Automatically Generated Streaming Accelerators. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 5-7, 2009, Napa Valley, CA.
 
-**[C15]** Nikolaos Bellas et al. An Architectural Framework for Automated Streaming Kernel Selection. *14th Reconfigurable Architectures Workshop (RAW)*. March 2007, Long Beach, CA.
+**[RAW'2007]** Nikolaos Bellas et al. An Architectural Framework for Automated Streaming Kernel Selection. *14th Reconfigurable Architectures Workshop (RAW)*. March 2007, Long Beach, CA.
 
-**[C14]** Nikolaos Bellas et al. Mapping Streaming Architectures on Reconfigurable Platforms. *Reconfigurable and Adaptive Architectures Workshop (RAAW)*. December 10th, 2006, Orlando, FL.
+**[RAAW'2006]** Nikolaos Bellas et al. Mapping Streaming Architectures on Reconfigurable Platforms. *Reconfigurable and Adaptive Architectures Workshop (RAAW)*. December 10th, 2006, Orlando, FL.
 
-**[C13]** Somsubhra Mondal, Seda O. Memik, Nikolaos Bellas. Pre-synthesis area estimation of reconfigurable streaming accelerators. *16th International Conference on Field Programmable Logic and Applications (FPL)*. August 28-30 2006, Madrid, Spain.
+**[FPL'2006]** Somsubhra Mondal, Seda O. Memik, Nikolaos Bellas. Pre-synthesis area estimation of reconfigurable streaming accelerators. *16th International Conference on Field Programmable Logic and Applications (FPL)*. August 28-30 2006, Madrid, Spain.
 
-**[C12]** Nikolaos Bellas, Arnold Yanof. An Image Processing Pipeline with Digital Compensation of Low Cost Optics for Mobile Telephony. *International Conference on Multimedia and Expo (ICME)*. July 9-12, 2006, Toronto, Canada.
+**[ICME'2006]** Nikolaos Bellas, Arnold Yanof. An Image Processing Pipeline with Digital Compensation of Low Cost Optics for Mobile Telephony. *International Conference on Multimedia and Expo (ICME)*. July 9-12, 2006, Toronto, Canada.
 
-**[C11]** Chai, Nikolaos Bellas et al. Reconfigurable Streaming Architectures for Embedded Smart Camera Applications. *2nd IEEE Workshop on Embedded Computer Vision*, in conjunction with CVPR. June 18, 2006, New York, NY.
+**[ECVW'2006]** Chai, Nikolaos Bellas et al. Reconfigurable Streaming Architectures for Embedded Smart Camera Applications. *2nd IEEE Workshop on Embedded Computer Vision*, in conjunction with CVPR. June 18, 2006, New York, NY.
 
-**[C10]** Nikolaos Bellas et al. FPGA implementation of a license plate recognition SoC using automatically generated streaming accelerators. *13th Reconfigurable Architectures Workshop (RAW)*. 25-26 April 2006, Rhodes, Greece.
+**[RAW'2006]** Nikolaos Bellas et al. FPGA implementation of a license plate recognition SoC using automatically generated streaming accelerators. *13th Reconfigurable Architectures Workshop (RAW)*. 25-26 April 2006, Rhodes, Greece.
 
-**[C9]** Nikolaos Bellas et al. Template-based generation of streaming accelerators from a high level representation. *International Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 24-26, 2006, Napa Valley, CA.
+**[FCCM1'2006]** Nikolaos Bellas et al. Template-based generation of streaming accelerators from a high level representation. *International Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 24-26, 2006, Napa Valley, CA.
 
-**[C8]** Somsubhra Mondal, Seda O. Memik, Nikolaos Bellas. Pre-synthesis Queue Size Estimation of Streaming Data Flow Graphs. *International Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 24-26, 2006, Napa Valley, CA.
+**[FCCM2'2006]** Somsubhra Mondal, Seda O. Memik, Nikolaos Bellas. Pre-synthesis Queue Size Estimation of Streaming Data Flow Graphs. *International Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 24-26, 2006, Napa Valley, CA.
 
-**[C7]** Sek Chai et al. Stream Memory Subsystem in Reconfigurable Platforms. *2nd Workshop on Architecture Research using FPGA Platforms (WARFP)*. February 12, 2006, Austin, TX.
+**[WARFP'2006]** Sek Chai et al. Stream Memory Subsystem in Reconfigurable Platforms. *2nd Workshop on Architecture Research using FPGA Platforms (WARFP)*. February 12, 2006, Austin, TX.
 
-**[C6]** Nikolaos Bellas, Malcolm Dwyer. A programmable, high performance Vector array unit used for Real-time Motion Estimation. *Proceedings of the International Conference on Multimedia and Expo (ICME)*. July 2003, Baltimore, MD.
+**[ICME'2003]** Nikolaos Bellas, Malcolm Dwyer. A programmable, high performance Vector array unit used for Real-time Motion Estimation. *Proceedings of the International Conference on Multimedia and Expo (ICME)*. July 2003, Baltimore, MD.
 
-**[C5]** Nikolaos Bellas et al. Energy and Performa Improvements in Microprocessor Design using a Loop Cache. *Proceedings of the International Symposium on Computer Design (ICCD)*. October 1999, Austin, TX.
+**[ICCD'1999]** Nikolaos Bellas et al. Energy and Performa Improvements in Microprocessor Design using a Loop Cache. *Proceedings of the International Symposium on Computer Design (ICCD)*. October 1999, Austin, TX.
 
-**[C4]** Nikolaos Bellas et al. Using dynamic cache management techniques to reduce energy in a high-performance microprocessor. *International Symposium of Low Power Electronics and Design (ISLPED)*. August 1999, San Diego, CA.
+**[ISLPED'1999]** Nikolaos Bellas et al. Using dynamic cache management techniques to reduce energy in a high-performance microprocessor. *International Symposium of Low Power Electronics and Design (ISLPED)*. August 1999, San Diego, CA.
 
-**[C3]** Nikolaos Bellas et al. A detailed, transistor-level energy model for SRAM-based caches. *International Symposium of Circuits and Systems (ISCAS)*. June 1999, Orlando, FL.
+**[ISCAS'1999]** Nikolaos Bellas et al. A detailed, transistor-level energy model for SRAM-based caches. *International Symposium of Circuits and Systems (ISCAS)*. June 1999, Orlando, FL.
   
-**[C2]** Nikolaos Bellas et al. Architectural and Compiler Support for Energy Reduction in the Memory Hierarchy of High Performance Microprocessors. *Proceedings of the International Symposium of Low Power Electronics and Design (ISLPED)*. August 1998, Monterey, CA.
+**[ISLPED'1999]** Nikolaos Bellas et al. Architectural and Compiler Support for Energy Reduction in the Memory Hierarchy of High Performance Microprocessors. *Proceedings of the International Symposium of Low Power Electronics and Design (ISLPED)*. August 1998, Monterey, CA.
 
-**[C1]** Nikolaos Bellas et al. A new scheme for I-Cache energy reduction in High Performance Processors. *Power-Driven Microarchitecture Workshop, International Symposium On Computer Architecture (ISCA)*. June 1998, Barcelona, Spain.
+**[PDMW'1998]** Nikolaos Bellas et al. A new scheme for I-Cache energy reduction in High Performance Processors. *Power-Driven Microarchitecture Workshop, International Symposium On Computer Architecture (ISCA)*. June 1998, Barcelona, Spain.
 
 </div>
