@@ -13,7 +13,7 @@ classes:
 ## Journal Articles
 
 **[FGCS'2024]** Foivos Pournaropoulos, Alexandros Patras, Christos D. Antonopoulos, Nikos Bellas, Spyros Lalis.
-Fluidity: Providing Flexible Deployment and Adaptation Policy Experimentation for Serverless and Distributed Applications spanning Cloud-Edge-Mobile Environments. *Future Generation Computer Systems*. March 2024. 
+Fluidity: Providing Flexible Deployment and Adaptation Policy Experimentation for Serverless and Distributed Applications spanning Cloud-Edge-Mobile Environments. *Future Generation Computer Systems*. March 2024. [pdf](https://dl.acm.org/doi/10.1016/j.future.2024.03.031)
 
 **[TECS'2023]** Maria-Rafaela Gkeka, Alexandros Patras, Nikolaos Tavoularis, Stylianos Piperakis, Emmanouil Hourdakis, Panos Trahanias, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas. Reconfigurable System-on-Chip Architectures for Robust Visual SLAM on Humanoid Robots. *ACM Transactions on Embedded Computing Systems*. Vol. 23, No.2, March-April 2023.
 
