@@ -7,6 +7,8 @@ classes:
   - publications-small
 ---
 
+<div class="publications-small" markdown="1">
+  
 ## Journal Articles
 
 **[J15]** Foivos Pournaropoulos, Alexandros Patras, Christos D. Antonopoulos, Nikos Bellas, Spyros Lalis.
@@ -157,3 +159,4 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[C1]** Nikolaos Bellas et al. A new scheme for I-Cache energy reduction in High Performance Processors. *Power-Driven Microarchitecture Workshop, International Symposium On Computer Architecture (ISCA)*. June 1998, Barcelona, Spain.
 
+</div>
