@@ -9,8 +9,8 @@ classes:
 ---
 
 <div class="publications-small" markdown="1">
-
-<h3 style="color: #2c3e50;">Journal Articles</h3>
+  
+<h2 style="color: #f00f28;">Journal Articles</h2>
 
 **[FGCS'2024]** Foivos Pournaropoulos, Alexandros Patras, Christos D. Antonopoulos, Nikos Bellas, Spyros Lalis.
 Fluidity: Providing Flexible Deployment and Adaptation Policy Experimentation for Serverless and Distributed Applications spanning Cloud-Edge-Mobile Environments. *Future Generation Computer Systems*. March 2024. ([pdf](/files/fgcs2024.pdf))
