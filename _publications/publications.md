@@ -46,13 +46,13 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 ## Conference and Workshop Articles
 
-**[C59]** Bowen Sun, Christos Antonopoulos, Evgenia Smirni, Bin Ren, Nikolaos Bellas, Spyros Lalis. Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing. *26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid)*. May 18-21, 2026. Sydney, Australia.
+**[CCGrid'2026]** Bowen Sun, Christos Antonopoulos, Evgenia Smirni, Bin Ren, Nikolaos Bellas, Spyros Lalis. Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing. *26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid)*. May 18-21, 2026. Sydney, Australia.
 
-**[C58]** Alexandros Patras, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas. DPUConfig: Optimizing ML Inference in FPGAs Using Reinforcement Learning. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. April 20-22, 2026. Verona, Italy.
+**[DATE'2026]** Alexandros Patras, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas. DPUConfig: Optimizing ML Inference in FPGAs Using Reinforcement Learning. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. April 20-22, 2026. Verona, Italy.
 
-**[C57]** Jiexiong Guan, Zhenqing Hu, Christos D. Antonopoulos, Nikolaos Bellas, Spyros Lalis, Evgenia Smirni, Gang Zhou, Gagan Agrawal, Bin Ren. Modeling Texture Memory and Mobile GPU Performance to Accelerate DNN Computations. *39th International Conference on Supercomputing (ICS)*. June 8-11, 2025. Salt Lake City, UT.
+**[ICS'2025]** Jiexiong Guan, Zhenqing Hu, Christos D. Antonopoulos, Nikolaos Bellas, Spyros Lalis, Evgenia Smirni, Gang Zhou, Gagan Agrawal, Bin Ren. Modeling Texture Memory and Mobile GPU Performance to Accelerate DNN Computations. *39th International Conference on Supercomputing (ICS)*. June 8-11, 2025. Salt Lake City, UT.
 
-**[C56]** Ioanna-Maria Panagou, Nikolaos Bellas, Lorenzo Moneta and Sanjiban Sengupta. Accelerating Machine Learning Inference on GPUs with SYCL. *12th International Workshop on OpenCL and SYCL (IWOCL)*. April 8-11, 2024. Chicago, IL.
+**[IWOCL'2024]** Ioanna-Maria Panagou, Nikolaos Bellas, Lorenzo Moneta and Sanjiban Sengupta. Accelerating Machine Learning Inference on GPUs with SYCL. *12th International Workshop on OpenCL and SYCL (IWOCL)*. April 8-11, 2024. Chicago, IL.
 
 **[C55]** Alexandros Patras et al. A Minimal Testbed for Experimenting with Flexible Resource and Application Management in Heterogeneous Edge-Cloud Systems. *International Conference on Embedded Wireless Systems and Networks (EWSN)*. September 25-27, 2023. Rende, Italy.
 
