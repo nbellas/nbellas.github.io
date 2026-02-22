@@ -66,19 +66,19 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[FPL'2021]** Nikolaos Bellas, et al. Architectures for SLAM and Augmented Reality Computing. *31th International Symposium on Field Programmable Logic and Applications (FPL)*. August 30-September 3, 2021. Virtual event. (Project paper).
 
-**[C49]** Emmanouil Maroudas, Christos Antonopoulos, Nikolaos Bellas and Spyros Lalis. Exploring the Potential of Context-Aware Dynamic CPU Undervolting. *ACM International Conference on Computing Frontiers*. May 11-13, 2021. Virtual Conference. (Best Paper Award).
+**[CF'2021]** Emmanouil Maroudas, Christos Antonopoulos, Nikolaos Bellas and Spyros Lalis. Exploring the Potential of Context-Aware Dynamic CPU Undervolting. *ACM International Conference on Computing Frontiers*. May 11-13, 2021. Virtual Conference. (Best Paper Award).
 
-**[C48]** Maria-Rafaela Gkeka et al. FPGA Architectures for Approximate Dense SLAM Computing. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. February 1-5, 2021. Virtual Conference (Nominated for Best Paper Award).
+**[DATE'2021]** Maria-Rafaela Gkeka et al. FPGA Architectures for Approximate Dense SLAM Computing. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. February 1-5, 2021. Virtual Conference (Nominated for Best Paper Award).
 
-**[C47]** Christos Kalogirou et al. Increasing the Profit of Cloud Providers through DRAM Operation at Reduced Margins. *20th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*. May 11-14, 2020. Melbourne, Australia.
+**[CCGrid'2020]** Christos Kalogirou et al. Increasing the Profit of Cloud Providers through DRAM Operation at Reduced Margins. *20th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*. May 11-14, 2020. Melbourne, Australia.
 
-**[C46]** Christos Kalogirou et al. Exploiting CPU Voltage Margins to Increase the Profit of Cloud Infrastructure Providers. *19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*. May 14-17, 2019. Larnaca, Cyprus.
+**[CCGrid'2019]** Christos Kalogirou et al. Exploiting CPU Voltage Margins to Increase the Profit of Cloud Infrastructure Providers. *19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*. May 14-17, 2019. Larnaca, Cyprus.
 
-**[C45]** Maria Rafaela Gkeka, Nikolaos Bellas, Christos D. Antonopoulos. Comparative Performance Analysis of Vulkan Implementations of Computational Applications. *7th International Workshop on OpenCL (IWOCL)*. May 13-15, 2019. Boston, MA.
+**[IWOCL'2019]** Maria Rafaela Gkeka, Nikolaos Bellas, Christos D. Antonopoulos. Comparative Performance Analysis of Vulkan Implementations of Computational Applications. *7th International Workshop on OpenCL (IWOCL)*. May 13-15, 2019. Boston, MA.
 
-**[C44]** K. Parasyris et al. Exploring the Effects of Code Optimizations on CPU Frequency Margins. *Workshop in Approximate and Transprecision Computing on Emerging Technologies (ATCET)*, in conjunction with the International Supercomputing Conference (ISC). June 28th, 2018. Frankfurt, Germany.
+**[ATCET'2018]** K. Parasyris et al. Exploring the Effects of Code Optimizations on CPU Frequency Margins. *Workshop in Approximate and Transprecision Computing on Emerging Technologies (ATCET)*, in conjunction with the International Supercomputing Conference (ISC). June 28th, 2018. Frankfurt, Germany.
 
-**[C43]** K. Parasyris et al. A Framework for Evaluating Software on Reduced Margins Hardware. *International Conference on Dependable Systems and Networks (DSN)*. June 25-28, 2018. Luxemburg.
+**[DSN'2018]** K. Parasyris et al. A Framework for Evaluating Software on Reduced Margins Hardware. *International Conference on Dependable Systems and Networks (DSN)*. June 25-28, 2018. Luxemburg.
 
 **[C42]** Georgios Karakonstantis et al. An Energy-Efficient and Error-Resilient Server Ecosystem Exceeding Conservative Scaling Limits. *IEEE Conference on Design, Automation and Test in Europe (DATE)*. March 2018. Dresden, Germany.
 
