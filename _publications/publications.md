@@ -67,7 +67,7 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[FPL'2021]** Nikolaos Bellas, et al. Architectures for SLAM and Augmented Reality Computing. *31th International Symposium on Field Programmable Logic and Applications (FPL)*. August 30-September 3, 2021. Virtual event. (Project paper). ([pdf](/files/FPL2021_vipGPU.pdf))
 
-**[CF'2021]** Emmanouil Maroudas, Christos Antonopoulos, Nikolaos Bellas and Spyros Lalis. Exploring the Potential of Context-Aware Dynamic CPU Undervolting. *ACM International Conference on Computing Frontiers*. May 11-13, 2021. Virtual Conference. (Best Paper Award). ([pdf](/files/CF_2021.pdf))
+**[CF'2021]** Emmanouil Maroudas, Christos Antonopoulos, Nikolaos Bellas and Spyros Lalis. Exploring the Potential of Context-Aware Dynamic CPU Undervolting. *ACM International Conference on Computing Frontiers*. May 11-13, 2021. Virtual Conference. **(Best Paper Award)**. ([pdf](/files/CF_2021.pdf))
 
 **[DATE'2021]** Maria-Rafaela Gkeka et al. FPGA Architectures for Approximate Dense SLAM Computing. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. February 1-5, 2021. Virtual Conference **(Nominated for Best Paper Award)**. ([pdf](/files/DATE2021_SLAM_CameraReady.pdf))
 
@@ -101,7 +101,7 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[DSN'2014]** Konstantinos Parasyris et al. GemFI: A Fault Injection Tool for Studying the Behavior of Applications on Unreliable Substrates. *International Conference on Dependable Systems and Networks (DSN)*. June 23-26, 2014. Atlanta, GA. ([pdf](/files/C33.DSN_2014.pdf))
 
-**[ASAP'2014]** Konstantinos Krommydas et al. On the Portability of OpenCL Dwarfs on Fixed and Reconfigurable Parallel Platforms. *25th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*. June 18-20, 2014, Zurich, Switzerland. (Nominated for Best Paper Award). ([pdf](/files/C32.ASAP_2014.pdf))
+**[ASAP'2014]** Konstantinos Krommydas et al. On the Portability of OpenCL Dwarfs on Fixed and Reconfigurable Parallel Platforms. *25th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*. June 18-20, 2014, Zurich, Switzerland. **(Nominated for Best Paper Award)**. ([pdf](/files/C32.ASAP_2014.pdf))
 
 **[FCCM'2014]** Muhsen Owaida, Christos D. Antonopoulos, Nikolaos Bellas. A Grammar Induction Method for Clustering of Operations in Complex FPGA Designs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 11-13, 2014. Boston, MA. ([pdf](/files/C31.FCCM_2014.pdf))
 
