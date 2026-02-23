@@ -49,17 +49,17 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[CCGrid'2026]** Bowen Sun, Christos Antonopoulos, Evgenia Smirni, Bin Ren, Nikolaos Bellas, Spyros Lalis. Green or Fast? Learning to Balance Cold Starts and Idle Carbon in Serverless Computing. *26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid)*. May 18-21, 2026. Sydney, Australia.
 
-**[DATE'2026]** Alexandros Patras, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas. DPUConfig: Optimizing ML Inference in FPGAs Using Reinforcement Learning. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. April 20-22, 2026. Verona, Italy. ([pdf](/files/488_pdf_upload_v1.pdf))
+**[DATE'2026]** Alexandros Patras, Christos D. Antonopoulos, Spyros Lalis, Nikolaos Bellas. DPUConfig: Optimizing ML Inference in FPGAs Using Reinforcement Learning. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. April 20-22, 2026. Verona, Italy. ([pdf](/files/DATE_2026.pdf))
 
-**[ICS'2025]** Jiexiong Guan, Zhenqing Hu, Christos D. Antonopoulos, Nikolaos Bellas, Spyros Lalis, Evgenia Smirni, Gang Zhou, Gagan Agrawal, Bin Ren. Modeling Texture Memory and Mobile GPU Performance to Accelerate DNN Computations. *39th International Conference on Supercomputing (ICS)*. June 8-11, 2025. Salt Lake City, UT. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ICS'2025]** Jiexiong Guan, Zhenqing Hu, Christos D. Antonopoulos, Nikolaos Bellas, Spyros Lalis, Evgenia Smirni, Gang Zhou, Gagan Agrawal, Bin Ren. Modeling Texture Memory and Mobile GPU Performance to Accelerate DNN Computations. *39th International Conference on Supercomputing (ICS)*. June 8-11, 2025. Salt Lake City, UT. ([pdf](/files/2025_ICS_TMModel.pdf))
 
-**[IWOCL'2024]** Ioanna-Maria Panagou, Nikolaos Bellas, Lorenzo Moneta and Sanjiban Sengupta. Accelerating Machine Learning Inference on GPUs with SYCL. *12th International Workshop on OpenCL and SYCL (IWOCL)*. April 8-11, 2024. Chicago, IL. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[IWOCL'2024]** Ioanna-Maria Panagou, Nikolaos Bellas, Lorenzo Moneta and Sanjiban Sengupta. Accelerating Machine Learning Inference on GPUs with SYCL. *12th International Workshop on OpenCL and SYCL (IWOCL)*. April 8-11, 2024. Chicago, IL. ([pdf](/files/IWOCL2024_CameraReady.pdf))
 
 **[EWSN'2023]** Alexandros Patras et al. A Minimal Testbed for Experimenting with Flexible Resource and Application Management in Heterogeneous Edge-Cloud Systems. *International Conference on Embedded Wireless Systems and Networks (EWSN)*. September 25-27, 2023. Rende, Italy. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
 
-**[ISCAS'2023]** Antonios-Kyrillos Chatzimichail, Charalampos Antoniadis, Nikolaos Bellas, Yehia Massoud. Low Power Hardware Architecture for Sampling-Free Bayesian Neural Networks Inference. *IEEE International Symposium on Circuits and Systems (ISCAS)*. May 21-25, 2023. Monterrey, CA. (Poster). ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ISCAS'2023]** Antonios-Kyrillos Chatzimichail, Charalampos Antoniadis, Nikolaos Bellas, Yehia Massoud. Low Power Hardware Architecture for Sampling-Free Bayesian Neural Networks Inference. *IEEE International Symposium on Circuits and Systems (ISCAS)*. May 21-25, 2023. Monterrey, CA. (Poster). ([pdf](/files/ISCAS_2023.pdf))
 
-**[FPL'2022]** Ioanna-Maria Panagou et al. FPGA Roofline modeling and its Application to Visual SLAM. *32th International Symposium on Field Programmable Logic and Applications (FPL)*. August 29-September 2, 2022. (Short paper). ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FPL'2022]** Ioanna-Maria Panagou et al. FPGA Roofline modeling and its Application to Visual SLAM. *32th International Symposium on Field Programmable Logic and Applications (FPL)*. August 29-September 2, 2022. (Short paper). ([pdf](/files/FPL2022_Roofline_camera_ready.pdf))
 
 **[JSSPP'2022]** Christos Kalogirou, Christos D. Antonopoulos, Spyros Lalis, and Nikolaos Bellas. Dynamic Management of CPU Resources Towards Energy Efficient and Profitable Datacentre Operation. *25th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP)*, in conjunction with IPDPS 2022. June 3, 2022, Lyon, France. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
 
@@ -71,9 +71,9 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[DATE'2021]** Maria-Rafaela Gkeka et al. FPGA Architectures for Approximate Dense SLAM Computing. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. February 1-5, 2021. Virtual Conference (Nominated for Best Paper Award). ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
 
-**[CCGrid'2020]** Christos Kalogirou et al. Increasing the Profit of Cloud Providers through DRAM Operation at Reduced Margins. *20th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*. May 11-14, 2020. Melbourne, Australia. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[CCGrid'2020]** Christos Kalogirou et al. Increasing the Profit of Cloud Providers through DRAM Operation at Reduced Margins. *20th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*. May 11-14, 2020. Melbourne, Australia. ([pdf](/files/CCGrid_2020.pdf))
 
-**[CCGrid'2019]** Christos Kalogirou et al. Exploiting CPU Voltage Margins to Increase the Profit of Cloud Infrastructure Providers. *19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*. May 14-17, 2019. Larnaca, Cyprus. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[CCGrid'2019]** Christos Kalogirou et al. Exploiting CPU Voltage Margins to Increase the Profit of Cloud Infrastructure Providers. *19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*. May 14-17, 2019. Larnaca, Cyprus. ([pdf](/files/C46.CCGRID_2019.pdf))
 
 **[IWOCL'2019]** Maria Rafaela Gkeka, Nikolaos Bellas, Christos D. Antonopoulos. Comparative Performance Analysis of Vulkan Implementations of Computational Applications. *7th International Workshop on OpenCL (IWOCL)*. May 13-15, 2019. Boston, MA. ([pdf](/files/C45.IWOCL_2019.pdf))
 
