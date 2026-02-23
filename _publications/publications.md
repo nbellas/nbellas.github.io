@@ -119,19 +119,19 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[FCCM3'2011]** Muhsen Owaida et al. Implementation and Performance Comparison of the Motion Compensation Kernel of the AVS Video Decoder on FPGA, GPU and Multicore Processors. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
 
-**[HiPEAC'2011]** Konstantis Daloukas, C.D. Antonopoulos, Nikolaos Bellas. GLOpenCL: OpenCL Support on Hardware- and Software-Managed Cache Multicores. *6th International Conference on High Performance Embedded Architectures & Compilers (HiPEAC)*. January 24-26, 2011, Heraklion, Greece. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[HiPEAC'2011]** Konstantis Daloukas, C.D. Antonopoulos, Nikolaos Bellas. GLOpenCL: OpenCL Support on Hardware- and Software-Managed Cache Multicores. *6th International Conference on High Performance Embedded Architectures & Compilers (HiPEAC)*. January 24-26, 2011, Heraklion, Greece. ([pdf](/files/C23.HIPEAC_2011.pdf))
 
-**[ICME'2010]** Konstantinos Krommidas et al. Mapping and Optimization of the AVS Video Decoder on a High Performance Chip Multiprocessor. *International Conference on Multimedia and Expo (ICME)*. July 19-23, 2010, Singapore. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ICME'2010]** Konstantinos Krommidas et al. Mapping and Optimization of the AVS Video Decoder on a High Performance Chip Multiprocessor. *International Conference on Multimedia and Expo (ICME)*. July 19-23, 2010, Singapore. ([pdf](/files/C22.ICME_2010.pdf))
 
-**[IPDPS'2010]** Konstantis Daloukas et al. Fisheye Lens Distortion Correction on Multicore and Hardware Accelerator Platforms. *24th International Parallel and Distributed Processing Symposium (IPDPS)*. April 19-23, 2010, Atlanta, GA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[IPDPS'2010]** Konstantis Daloukas et al. Fisheye Lens Distortion Correction on Multicore and Hardware Accelerator Platforms. *24th International Parallel and Distributed Processing Symposium (IPDPS)*. April 19-23, 2010, Atlanta, GA. ([pdf](/files/C21.IPDPS_2010.pdf))
 
-**[FPL'2019]** Nikolaos Bellas et al. Proteus: An Architectural Synthesis Tool based on the Streaming Programing Model. *19th International Conference on Field Programmable Logic and Applications (FPL)*. August/September 2009, Prague. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FPL'2019]** Nikolaos Bellas et al. Proteus: An Architectural Synthesis Tool based on the Streaming Programing Model. *19th International Conference on Field Programmable Logic and Applications (FPL)*. August/September 2009, Prague. ([pdf](/files/C20.FPL_2009.pdf))
 
-**[SAAHPC'2009]** Sek M. Chai, Nikolaos Bellas, Abelardo Lopez Lagunas. Extending a Stream Programming Paradigm to Hardware Accelerator Platforms. *Symposium on Application Accelerators for High Performance Computing (SAAHPC)*. July 27-31 2009, Champaign, IL. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[SAAHPC'2009]** Sek M. Chai, Nikolaos Bellas, Abelardo Lopez Lagunas. Extending a Stream Programming Paradigm to Hardware Accelerator Platforms. *Symposium on Application Accelerators for High Performance Computing (SAAHPC)*. July 27-31 2009, Champaign, IL. ([pdf](/files/C19.SAAHPC_2009.pdf))
 
-**[DAC'2009]** Nikolaos Bellas et al. Mapping the AVS Video Decoder on a Heterogeneous Dual-Core SIMD Processor. *46th Design Automation Conference (DAC)*. July 26-31, 2009, San Francisco, CA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[DAC'2009]** Nikolaos Bellas et al. Mapping the AVS Video Decoder on a Heterogeneous Dual-Core SIMD Processor. *46th Design Automation Conference (DAC)*. July 26-31, 2009, San Francisco, CA. ([pdf](/files/C18.DAC_2009.pdf))
 
-**[ICS'2009]** Konstantis Daloukas, C.D. Antonopoulos, Nikolaos Bellas. Implementation of a Wide-angle Lens Distortion Correction Algorithm on the Cell Broadband Engine. *23rd International Conference on Supercomputing (ICS)*. June 8-12, 2009, New York Metro Area, NY. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ICS'2009]** Konstantis Daloukas, C.D. Antonopoulos, Nikolaos Bellas. Implementation of a Wide-angle Lens Distortion Correction Algorithm on the Cell Broadband Engine. *23rd International Conference on Supercomputing (ICS)*. June 8-12, 2009, New York Metro Area, NY. ([pdf](/files/C17.ICS_2009.pdf))
 
 **[FCCM'2009]** Nikolaos Bellas et al. Real-Time Fisheye Lens Distortion Correction Using Automatically Generated Streaming Accelerators. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 5-7, 2009, Napa Valley, CA. ([pdf](/files/C16.FCCM_2009.pdf))
 
