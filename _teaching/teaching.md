@@ -10,7 +10,7 @@ classes:
 
 <div class="teaching-small" markdown="1">
 
-# Course Instruction
+<h2 style="color: #f00f28;">Courses</h2>
 
 **Computer Organization and Design (ECE219)**. Sophomore class. (Fall 25 - Fall 13).
 
