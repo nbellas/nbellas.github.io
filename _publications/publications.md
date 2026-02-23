@@ -143,14 +143,15 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[ICME'2006]** Nikolaos Bellas, Arnold Yanof. An Image Processing Pipeline with Digital Compensation of Low Cost Optics for Mobile Telephony. *International Conference on Multimedia and Expo (ICME)*. July 9-12, 2006, Toronto, Canada. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
 
-**[ECVW'2006]** Chai, Nikolaos Bellas et al. Reconfigurable Streaming Architectures for Embedded Smart Camera Applications. *2nd IEEE Workshop on Embedded Computer Vision*, in conjunction with CVPR. June 18, 2006, New York, NY. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ECVW'2006]** Chai, Nikolaos Bellas et al. Reconfigurable Streaming Architectures for Embedded Smart Camera Applications. *2nd IEEE Workshop on Embedded Computer Vision*, in conjunction with CVPR. June 18, 2006, New York, NY. ([pdf](/files/C11.EmbeddedComputerVision_2006.pdf))
 
-**[RAW'2006]** Nikolaos Bellas et al. FPGA implementation of a license plate recognition SoC using automatically generated streaming accelerators. *13th Reconfigurable Architectures Workshop (RAW)*. 25-26 April 2006, Rhodes, Greece. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[RAW'2006]** Nikolaos Bellas et al. FPGA implementation of a license plate recognition SoC using automatically generated streaming accelerators. *13th Reconfigurable Architectures Workshop (RAW)*. 25-26 April 2006, Rhodes, Greece. ([pdf](/files/C10.RAW_2006.pdf))
 
-**[FCCM1'2006]** Nikolaos Bellas et al. Template-based generation of streaming accelerators from a high level representation. *International Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 24-26, 2006, Napa Valley, CA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FCCM1'2006]** Nikolaos Bellas et al. Template-based generation of streaming accelerators from a high level representation. *International Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 24-26, 2006, Napa Valley, CA. ([pdf](/files/C9.FCCM1_2006.pdf))
 
 **[FCCM2'2006]** Somsubhra Mondal, Seda O. Memik, Nikolaos Bellas. Pre-synthesis Queue Size Estimation of Streaming Data Flow Graphs. *International Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 24-26, 2006, Napa Valley, CA.
-([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+([pdf](/files/C8.FCCM2_2006.pdf))
+
 **[WARFP'2006]** Sek Chai et al. Stream Memory Subsystem in Reconfigurable Platforms. *2nd Workshop on Architecture Research using FPGA Platforms (WARFP)*. February 12, 2006, Austin, TX. ([pdf](/files/C7.WARFP_February2006.pdf))
 
 **[ICME'2003]** Nikolaos Bellas, Malcolm Dwyer. A programmable, high performance Vector array unit used for Real-time Motion Estimation. *Proceedings of the International Conference on Multimedia and Expo (ICME)*. July 2003, Baltimore, MD. ([pdf](/files/C6.ICME_2003.pdf))
