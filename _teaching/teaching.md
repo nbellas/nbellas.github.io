@@ -8,7 +8,7 @@ classes:
   - wide
 type: ""
 venue: ""
-date:
+date: 2026-02-01
 ---
 
 <div class="teaching-small" markdown="1">
