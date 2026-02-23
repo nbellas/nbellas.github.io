@@ -6,6 +6,9 @@ author_profile: true
 classes:
   - teaching-small
   - wide
+type: "Undergraduate and Graduate Courses"
+venue: "University of Thessaly"
+date: 2026-02-01
 ---
 
 <div class="teaching-small" markdown="1">
