@@ -61,11 +61,11 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[FPL'2022]** Ioanna-Maria Panagou et al. FPGA Roofline modeling and its Application to Visual SLAM. *32th International Symposium on Field Programmable Logic and Applications (FPL)*. August 29-September 2, 2022. (Short paper). ([pdf](/files/FPL2022_Roofline_camera_ready.pdf))
 
-**[JSSPP'2022]** Christos Kalogirou, Christos D. Antonopoulos, Spyros Lalis, and Nikolaos Bellas. Dynamic Management of CPU Resources Towards Energy Efficient and Profitable Datacentre Operation. *25th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP)*, in conjunction with IPDPS 2022. June 3, 2022, Lyon, France. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[JSSPP'2022]** Christos Kalogirou, Christos D. Antonopoulos, Spyros Lalis, and Nikolaos Bellas. Dynamic Management of CPU Resources Towards Energy Efficient and Profitable Datacentre Operation. *25th Workshop on Job Scheduling Strategies for Parallel Processing (JSSPP)*, in conjunction with IPDPS 2022. June 3, 2022, Lyon, France. ([pdf](/files/JSSPP_2022_paper_17.pdf))
 
-**[FPGA'2022]** Maria Rafaela Gkeka et al. FPGA Accelerators for Robust Visual SLAM on Humanoid Robots. *30th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)*. Feb. 27- March 1, 2022. Virtual Event. (Poster). ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FPGA'2022]** Maria Rafaela Gkeka et al. FPGA Accelerators for Robust Visual SLAM on Humanoid Robots. *30th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA)*. Feb. 27- March 1, 2022. Virtual Event. (Poster). ([pdf](/files/FPGA2022_Abstract.pdf))
 
-**[FPL'2021]** Nikolaos Bellas, et al. Architectures for SLAM and Augmented Reality Computing. *31th International Symposium on Field Programmable Logic and Applications (FPL)*. August 30-September 3, 2021. Virtual event. (Project paper). ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FPL'2021]** Nikolaos Bellas, et al. Architectures for SLAM and Augmented Reality Computing. *31th International Symposium on Field Programmable Logic and Applications (FPL)*. August 30-September 3, 2021. Virtual event. (Project paper). ([pdf](/files/FPL2021_vipGPU.pdf))
 
 **[CF'2021]** Emmanouil Maroudas, Christos Antonopoulos, Nikolaos Bellas and Spyros Lalis. Exploring the Potential of Context-Aware Dynamic CPU Undervolting. *ACM International Conference on Computing Frontiers*. May 11-13, 2021. Virtual Conference. (Best Paper Award). ([pdf](/files/CF_2021.pdf))
 
