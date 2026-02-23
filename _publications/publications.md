@@ -55,7 +55,7 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[IWOCL'2024]** Ioanna-Maria Panagou, Nikolaos Bellas, Lorenzo Moneta and Sanjiban Sengupta. Accelerating Machine Learning Inference on GPUs with SYCL. *12th International Workshop on OpenCL and SYCL (IWOCL)*. April 8-11, 2024. Chicago, IL. ([pdf](/files/IWOCL2024_CameraReady.pdf))
 
-**[EWSN'2023]** Alexandros Patras et al. A Minimal Testbed for Experimenting with Flexible Resource and Application Management in Heterogeneous Edge-Cloud Systems. *International Conference on Embedded Wireless Systems and Networks (EWSN)*. September 25-27, 2023. Rende, Italy. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[EWSN'2023]** Alexandros Patras et al. A Minimal Testbed for Experimenting with Flexible Resource and Application Management in Heterogeneous Edge-Cloud Systems. *International Conference on Embedded Wireless Systems and Networks (EWSN)*. September 25-27, 2023. Rende, Italy. ([pdf](/files/EWSN_2023.pdf))
 
 **[ISCAS'2023]** Antonios-Kyrillos Chatzimichail, Charalampos Antoniadis, Nikolaos Bellas, Yehia Massoud. Low Power Hardware Architecture for Sampling-Free Bayesian Neural Networks Inference. *IEEE International Symposium on Circuits and Systems (ISCAS)*. May 21-25, 2023. Monterrey, CA. (Poster). ([pdf](/files/ISCAS_2023.pdf))
 
