@@ -69,7 +69,7 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[CF'2021]** Emmanouil Maroudas, Christos Antonopoulos, Nikolaos Bellas and Spyros Lalis. Exploring the Potential of Context-Aware Dynamic CPU Undervolting. *ACM International Conference on Computing Frontiers*. May 11-13, 2021. Virtual Conference. (Best Paper Award). ([pdf](/files/CF_2021.pdf))
 
-**[DATE'2021]** Maria-Rafaela Gkeka et al. FPGA Architectures for Approximate Dense SLAM Computing. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. February 1-5, 2021. Virtual Conference (Nominated for Best Paper Award). ([pdf](/files/DATE2021_SLAM_CameraReady.pdf))
+**[DATE'2021]** Maria-Rafaela Gkeka et al. FPGA Architectures for Approximate Dense SLAM Computing. *Design, Automation & Test in Europe Conference & Exhibition (DATE)*. February 1-5, 2021. Virtual Conference **(Nominated for Best Paper Award)**. ([pdf](/files/DATE2021_SLAM_CameraReady.pdf))
 
 **[CCGrid'2020]** Christos Kalogirou et al. Increasing the Profit of Cloud Providers through DRAM Operation at Reduced Margins. *20th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*. May 11-14, 2020. Melbourne, Australia. ([pdf](/files/CCGrid_2020.pdf))
 
