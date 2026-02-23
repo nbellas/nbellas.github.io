@@ -103,8 +103,8 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[ASAP'2014]** Konstantinos Krommydas et al. On the Portability of OpenCL Dwarfs on Fixed and Reconfigurable Parallel Platforms. *25th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*. June 18-20, 2014, Zurich, Switzerland. (Nominated for Best Paper Award). ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
 
-**[FCCM'2014]** Muhsen Owaida, Christos D. Antonopoulos, Nikolaos Bellas. A Grammar Induction Method for Clustering of Operations in Complex FPGA Designs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 11-13, 2014. Boston, MA.
-([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FCCM'2014]** Muhsen Owaida, Christos D. Antonopoulos, Nikolaos Bellas. A Grammar Induction Method for Clustering of Operations in Complex FPGA Designs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 11-13, 2014. Boston, MA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+
 **[FCCM'2012]** Gabriel Falcao et al. Shortening design time through multiplatform simulations with a portable OpenCL golden model: the LDPC decoder case. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April-May 2012. Toronto, ON. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
 
 **[ICCAD'2011]** Muhsen Owaida et al. Massively Parallel Programing Models Used as Hardware Description Languages: The OpenCL Case. *International Conference on Computer-Aided Design (ICCAD)*. November 6-10, 2011, San Jose, CA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
@@ -151,18 +151,18 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[FCCM2'2006]** Somsubhra Mondal, Seda O. Memik, Nikolaos Bellas. Pre-synthesis Queue Size Estimation of Streaming Data Flow Graphs. *International Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 24-26, 2006, Napa Valley, CA.
 ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
-**[WARFP'2006]** Sek Chai et al. Stream Memory Subsystem in Reconfigurable Platforms. *2nd Workshop on Architecture Research using FPGA Platforms (WARFP)*. February 12, 2006, Austin, TX. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[WARFP'2006]** Sek Chai et al. Stream Memory Subsystem in Reconfigurable Platforms. *2nd Workshop on Architecture Research using FPGA Platforms (WARFP)*. February 12, 2006, Austin, TX. ([pdf](/files/C7.WARFP_February2006.pdf))
 
-**[ICME'2003]** Nikolaos Bellas, Malcolm Dwyer. A programmable, high performance Vector array unit used for Real-time Motion Estimation. *Proceedings of the International Conference on Multimedia and Expo (ICME)*. July 2003, Baltimore, MD. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ICME'2003]** Nikolaos Bellas, Malcolm Dwyer. A programmable, high performance Vector array unit used for Real-time Motion Estimation. *Proceedings of the International Conference on Multimedia and Expo (ICME)*. July 2003, Baltimore, MD. ([pdf](/files/C6.ICME_2003.pdf))
 
-**[ICCD'1999]** Nikolaos Bellas et al. Energy and Performa Improvements in Microprocessor Design using a Loop Cache. *Proceedings of the International Symposium on Computer Design (ICCD)*. October 1999, Austin, TX. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ICCD'1999]** Nikolaos Bellas et al. Energy and Performa Improvements in Microprocessor Design using a Loop Cache. *Proceedings of the International Symposium on Computer Design (ICCD)*. October 1999, Austin, TX. ([pdf](/files/C5.ICCD_1999.pdf))
 
-**[ISLPED'1999]** Nikolaos Bellas et al. Using dynamic cache management techniques to reduce energy in a high-performance microprocessor. *International Symposium of Low Power Electronics and Design (ISLPED)*. August 1999, San Diego, CA. ([pdf](/files/C1.ISCA98_Wkshop.pdf))
+**[ISLPED'1999]** Nikolaos Bellas et al. Using dynamic cache management techniques to reduce energy in a high-performance microprocessor. *International Symposium of Low Power Electronics and Design (ISLPED)*. August 1999, San Diego, CA. ([pdf](/files/C4.ISLPED_1999.pdf))
 
 **[ISCAS'1999]** Nikolaos Bellas et al. A detailed, transistor-level energy model for SRAM-based caches. *International Symposium of Circuits and Systems (ISCAS)*. June 1999, Orlando, FL. ([pdf](/files/C3.ISCAS_1999.pdf))
   
 **[ISLPED'1999]** Nikolaos Bellas et al. Architectural and Compiler Support for Energy Reduction in the Memory Hierarchy of High Performance Microprocessors. *Proceedings of the International Symposium of Low Power Electronics and Design (ISLPED)*. August 1998, Monterey, CA. ([pdf](/files/C2.ISLPED_1998.pdf))
 
-**[PDMW'1998]** Nikolaos Bellas et al. A new scheme for I-Cache energy reduction in High Performance Processors. *Power-Driven Microarchitecture Workshop, International Symposium On Computer Architecture (ISCA)*. June 1998, Barcelona, Spain. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[PDMW'1998]** Nikolaos Bellas et al. A new scheme for I-Cache energy reduction in High Performance Processors. *Power-Driven Microarchitecture Workshop, International Symposium On Computer Architecture (ISCA)*. June 1998, Barcelona, Spain. ([pdf](/files/C1.ISCA98_Wkshop.pdf))
 
 </div>
