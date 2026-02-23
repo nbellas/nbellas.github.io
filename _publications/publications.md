@@ -75,49 +75,49 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[CCGrid'2019]** Christos Kalogirou et al. Exploiting CPU Voltage Margins to Increase the Profit of Cloud Infrastructure Providers. *19th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)*. May 14-17, 2019. Larnaca, Cyprus. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
 
-**[IWOCL'2019]** Maria Rafaela Gkeka, Nikolaos Bellas, Christos D. Antonopoulos. Comparative Performance Analysis of Vulkan Implementations of Computational Applications. *7th International Workshop on OpenCL (IWOCL)*. May 13-15, 2019. Boston, MA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[IWOCL'2019]** Maria Rafaela Gkeka, Nikolaos Bellas, Christos D. Antonopoulos. Comparative Performance Analysis of Vulkan Implementations of Computational Applications. *7th International Workshop on OpenCL (IWOCL)*. May 13-15, 2019. Boston, MA. ([pdf](/files/C45.IWOCL_2019.pdf))
 
-**[ATCET'2018]** K. Parasyris et al. Exploring the Effects of Code Optimizations on CPU Frequency Margins. *Workshop in Approximate and Transprecision Computing on Emerging Technologies (ATCET)*, in conjunction with the International Supercomputing Conference (ISC). June 28th, 2018. Frankfurt, Germany. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ATCET'2018]** K. Parasyris et al. Exploring the Effects of Code Optimizations on CPU Frequency Margins. *Workshop in Approximate and Transprecision Computing on Emerging Technologies (ATCET)*, in conjunction with the International Supercomputing Conference (ISC). June 28th, 2018. Frankfurt, Germany. ([pdf](/files/C44.ATCET_2018.pdf))
 
-**[DSN'2018]** K. Parasyris et al. A Framework for Evaluating Software on Reduced Margins Hardware. *International Conference on Dependable Systems and Networks (DSN)*. June 25-28, 2018. Luxemburg. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[DSN'2018]** K. Parasyris et al. A Framework for Evaluating Software on Reduced Margins Hardware. *International Conference on Dependable Systems and Networks (DSN)*. June 25-28, 2018. Luxemburg. ([pdf](/files/C43.DSN_2018.pdf))
 
-**[DATE'2018]** Georgios Karakonstantis et al. An Energy-Efficient and Error-Resilient Server Ecosystem Exceeding Conservative Scaling Limits. *IEEE Conference on Design, Automation and Test in Europe (DATE)*. March 2018. Dresden, Germany. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[DATE'2018]** Georgios Karakonstantis et al. An Energy-Efficient and Error-Resilient Server Ecosystem Exceeding Conservative Scaling Limits. *IEEE Conference on Design, Automation and Test in Europe (DATE)*. March 2018. Dresden, Germany. ([pdf](/files/C42.DATE_2018.pdf))
 
-**[PARCO'2017]** Christos Kalogirou et al. Edge and Cloud Provider Cost Minimization by Exploiting Extended Voltage and Frequency Margins. *International Conference on Parallel Computing (PARCO)*. September 12-15, 2017, Bologna, Italy. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[PARCO'2017]** Christos Kalogirou et al. Edge and Cloud Provider Cost Minimization by Exploiting Extended Voltage and Frequency Margins. *International Conference on Parallel Computing (PARCO)*. September 12-15, 2017, Bologna, Italy. ([pdf](/files/C41.PARCO_2017.pdf))
 
-**[FPL'2017]** Ioannis Parnassos et al. Programming Model and Runtime System for Approximation-Aware Heterogeneous Computing. *27th International Symposium on Field Programmable Logic and Applications (FPL)*. September 4-8, 2017. Ghent, Belgium. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FPL'2017]** Ioannis Parnassos et al. Programming Model and Runtime System for Approximation-Aware Heterogeneous Computing. *27th International Symposium on Field Programmable Logic and Applications (FPL)*. September 4-8, 2017. Ghent, Belgium. ([pdf](/files/C40.FPL_2017.pdf))
 
-**[FPL'2016]** Ioannis Parnassos et al. SoCLog: A Real-Time, Automatically Generated Logging and Profiling Mechanism for FPGA-based Systems On Chip. *26th International Symposium on Field Programmable Logic and Applications (FPL)*. August 28 September 2, 2016. Lausanne, Switzerland. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FPL'2016]** Ioannis Parnassos et al. SoCLog: A Real-Time, Automatically Generated Logging and Profiling Mechanism for FPGA-based Systems On Chip. *26th International Symposium on Field Programmable Logic and Applications (FPL)*. August 28 September 2, 2016. Lausanne, Switzerland. ([pdf](/files/C39.FPL_2016.pdf))
 
-**[CGO'2016]** Vassilis Vassiliadis et al. Towards Automatic Significance Analysis for Approximate Computing. *International Symposium on Code Generation and Optimization (CGO)*. March 14-16, 2016. Barcelona, Spain. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[CGO'2016]** Vassilis Vassiliadis et al. Towards Automatic Significance Analysis for Approximate Computing. *International Symposium on Code Generation and Optimization (CGO)*. March 14-16, 2016. Barcelona, Spain. ([pdf](/files/C38.CGO_2016.pdf))
 
-**[PARCO'2015]** Michalis Spyrou et al. Energy Minimization on Heterogeneous Systems through Approximate Computing. *International Conference on Parallel Computing (PARCO)*. September 1-4, 2015. Edinburgh, UK. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[PARCO'2015]** Michalis Spyrou et al. Energy Minimization on Heterogeneous Systems through Approximate Computing. *International Conference on Parallel Computing (PARCO)*. September 1-4, 2015. Edinburgh, UK. ([pdf](/files/C37.PARCO_2015.pdf))
 
-**[CF'2015]** Vassilis Vassiliadis et al. A Significance-Driven Programming Framework for Energy-Constrained Approximate Computing. *ACM International Conference on Computing Frontiers*. May 18-21, 2015. Ischia, Italy. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[CF'2015]** Vassilis Vassiliadis et al. A Significance-Driven Programming Framework for Energy-Constrained Approximate Computing. *ACM International Conference on Computing Frontiers*. May 18-21, 2015. Ischia, Italy. ([pdf](/files/C36.ComputingFrontiers_2015.pdf))
 
-**[WACAS'2015]** Konstantinos Parasyris et al. A Significance-Aware Software Stack for Computing on Unreliable Hardware. *Second Workshop on Approximate Computing Across the System Stack (WACAS)*. March 15, 2015. Istanbul, Turkey. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[WACAS'2015]** Konstantinos Parasyris et al. A Significance-Aware Software Stack for Computing on Unreliable Hardware. *Second Workshop on Approximate Computing Across the System Stack (WACAS)*. March 15, 2015. Istanbul, Turkey. ([pdf](/files/C35.WACAS_2015.pdf))
 
-**[PPoPP'2015]** Vassilis Vassiliadis et al. A programming model and runtime system for significance-aware energy-efficient computing. *ACM SIGPLAN 20th Symposium on Principles and Practice of Parallel Programming (PPoPP)*. February 9-11, 2015. San Francisco, CA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[PPoPP'2015]** Vassilis Vassiliadis et al. A programming model and runtime system for significance-aware energy-efficient computing. *ACM SIGPLAN 20th Symposium on Principles and Practice of Parallel Programming (PPoPP)*. February 9-11, 2015. San Francisco, CA. ([pdf](/files/C34.PPoPP_2015.pdf))
 
-**[DSN'2014]** Konstantinos Parasyris et al. GemFI: A Fault Injection Tool for Studying the Behavior of Applications on Unreliable Substrates. *International Conference on Dependable Systems and Networks (DSN)*. June 23-26, 2014. Atlanta, GA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[DSN'2014]** Konstantinos Parasyris et al. GemFI: A Fault Injection Tool for Studying the Behavior of Applications on Unreliable Substrates. *International Conference on Dependable Systems and Networks (DSN)*. June 23-26, 2014. Atlanta, GA. ([pdf](/files/C33.DSN_2014.pdf))
 
-**[ASAP'2014]** Konstantinos Krommydas et al. On the Portability of OpenCL Dwarfs on Fixed and Reconfigurable Parallel Platforms. *25th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*. June 18-20, 2014, Zurich, Switzerland. (Nominated for Best Paper Award). ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ASAP'2014]** Konstantinos Krommydas et al. On the Portability of OpenCL Dwarfs on Fixed and Reconfigurable Parallel Platforms. *25th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP)*. June 18-20, 2014, Zurich, Switzerland. (Nominated for Best Paper Award). ([pdf](/files/C32.ASAP_2014.pdf))
 
-**[FCCM'2014]** Muhsen Owaida, Christos D. Antonopoulos, Nikolaos Bellas. A Grammar Induction Method for Clustering of Operations in Complex FPGA Designs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 11-13, 2014. Boston, MA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FCCM'2014]** Muhsen Owaida, Christos D. Antonopoulos, Nikolaos Bellas. A Grammar Induction Method for Clustering of Operations in Complex FPGA Designs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 11-13, 2014. Boston, MA. ([pdf](/files/C31.FCCM_2014.pdf))
 
-**[FCCM'2012]** Gabriel Falcao et al. Shortening design time through multiplatform simulations with a portable OpenCL golden model: the LDPC decoder case. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April-May 2012. Toronto, ON. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FCCM'2012]** Gabriel Falcao et al. Shortening design time through multiplatform simulations with a portable OpenCL golden model: the LDPC decoder case. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April-May 2012. Toronto, ON. ([pdf](/files/C30.FCCM_2012.pdf))
 
-**[ICCAD'2011]** Muhsen Owaida et al. Massively Parallel Programing Models Used as Hardware Description Languages: The OpenCL Case. *International Conference on Computer-Aided Design (ICCAD)*. November 6-10, 2011, San Jose, CA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ICCAD'2011]** Muhsen Owaida et al. Massively Parallel Programing Models Used as Hardware Description Languages: The OpenCL Case. *International Conference on Computer-Aided Design (ICCAD)*. November 6-10, 2011, San Jose, CA. ([pdf](/files/C29.ICCAD_2011.pdf))
 
-**[ICME'2011]** Konstantinos Krommydas et al. AVS Video Decoder on Multicore Systems: Optimizations and Tradeoffs. *2011 International Conference on Multimedia and Expo (ICME)*. July 2011, Barcelona, Spain. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ICME'2011]** Konstantinos Krommydas et al. AVS Video Decoder on Multicore Systems: Optimizations and Tradeoffs. *2011 International Conference on Multimedia and Expo (ICME)*. July 2011, Barcelona, Spain. ([pdf](/files/C28.ICME_2011.pdf))
 
-**[WACI'2011]** Georgios Karakonstantis et al. Significance Driven Computation on Next Generation Unreliable Platforms. *Design Automation Conference (DAC), Wild And Crazy Ideas Session (WACI)*. June 5-10, 2011, San Diego, CA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[WACI'2011]** Georgios Karakonstantis et al. Significance Driven Computation on Next Generation Unreliable Platforms. *Design Automation Conference (DAC), Wild And Crazy Ideas Session (WACI)*. June 5-10, 2011, San Diego, CA. ([pdf](/files/C27.DAC_WACI_2011.pdf))
 
-**[FCCM1'2011]** Muhsen Owaida et al. Synthesis of Platform Architectures from OpenCL Programs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011, Salt Lake City, UT. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FCCM1'2011]** Muhsen Owaida et al. Synthesis of Platform Architectures from OpenCL Programs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011, Salt Lake City, UT. ([pdf](/files/C26.FCCM3_2011.pdf))
 
-**[FCCM2'2011]** Kostas Theocharoulis et al. Implementation and Performance Analysis of Seal Encryption on FPGA, GPU, and Multicore Processors. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FCCM2'2011]** Kostas Theocharoulis et al. Implementation and Performance Analysis of Seal Encryption on FPGA, GPU, and Multicore Processors. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011. ([pdf](/files/C25.FCCM2_2011.pdf))
 
-**[FCCM3'2011]** Muhsen Owaida et al. Implementation and Performance Comparison of the Motion Compensation Kernel of the AVS Video Decoder on FPGA, GPU and Multicore Processors. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FCCM3'2011]** Muhsen Owaida et al. Implementation and Performance Comparison of the Motion Compensation Kernel of the AVS Video Decoder on FPGA, GPU and Multicore Processors. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 1-3, 2011. ([pdf](/files/C24.FCCM1_2011.pdf))
 
 **[HiPEAC'2011]** Konstantis Daloukas, C.D. Antonopoulos, Nikolaos Bellas. GLOpenCL: OpenCL Support on Hardware- and Software-Managed Cache Multicores. *6th International Conference on High Performance Embedded Architectures & Compilers (HiPEAC)*. January 24-26, 2011, Heraklion, Greece. ([pdf](/files/C23.HIPEAC_2011.pdf))
 
