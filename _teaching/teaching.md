@@ -4,11 +4,11 @@ permalink: /teaching/
 layout: single
 author_profile: true
 classes:
-  - publications-small
+  - teaching-small
   - wide
 ---
 
-<div class="teaching" markdown="1">
+<div class="teaching-small" markdown="1">
 
 # Course Instruction
 
