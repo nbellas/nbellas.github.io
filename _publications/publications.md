@@ -133,15 +133,15 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[ICS'2009]** Konstantis Daloukas, C.D. Antonopoulos, Nikolaos Bellas. Implementation of a Wide-angle Lens Distortion Correction Algorithm on the Cell Broadband Engine. *23rd International Conference on Supercomputing (ICS)*. June 8-12, 2009, New York Metro Area, NY. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
 
-**[FCCM'2009]** Nikolaos Bellas et al. Real-Time Fisheye Lens Distortion Correction Using Automatically Generated Streaming Accelerators. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 5-7, 2009, Napa Valley, CA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FCCM'2009]** Nikolaos Bellas et al. Real-Time Fisheye Lens Distortion Correction Using Automatically Generated Streaming Accelerators. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 5-7, 2009, Napa Valley, CA. ([pdf](/files/C16.FCCM_2009.pdf))
 
-**[RAW'2007]** Nikolaos Bellas et al. An Architectural Framework for Automated Streaming Kernel Selection. *14th Reconfigurable Architectures Workshop (RAW)*. March 2007, Long Beach, CA. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[RAW'2007]** Nikolaos Bellas et al. An Architectural Framework for Automated Streaming Kernel Selection. *14th Reconfigurable Architectures Workshop (RAW)*. March 2007, Long Beach, CA. ([pdf](/files/C15.RAW_2007.pdf))
 
-**[RAAW'2006]** Nikolaos Bellas et al. Mapping Streaming Architectures on Reconfigurable Platforms. *Reconfigurable and Adaptive Architectures Workshop (RAAW)*. December 10th, 2006, Orlando, FL. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[RAAW'2006]** Nikolaos Bellas et al. Mapping Streaming Architectures on Reconfigurable Platforms. *Reconfigurable and Adaptive Architectures Workshop (RAAW)*. December 10th, 2006, Orlando, FL. ([pdf](/files/C14.RAAW_2006.pdf))
 
-**[FPL'2006]** Somsubhra Mondal, Seda O. Memik, Nikolaos Bellas. Pre-synthesis area estimation of reconfigurable streaming accelerators. *16th International Conference on Field Programmable Logic and Applications (FPL)*. August 28-30 2006, Madrid, Spain. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[FPL'2006]** Somsubhra Mondal, Seda O. Memik, Nikolaos Bellas. Pre-synthesis area estimation of reconfigurable streaming accelerators. *16th International Conference on Field Programmable Logic and Applications (FPL)*. August 28-30 2006, Madrid, Spain. ([pdf](/files/C13.FPL_2006.pdf))
 
-**[ICME'2006]** Nikolaos Bellas, Arnold Yanof. An Image Processing Pipeline with Digital Compensation of Low Cost Optics for Mobile Telephony. *International Conference on Multimedia and Expo (ICME)*. July 9-12, 2006, Toronto, Canada. ([pdf](/files/IEEETransactionsVLSI_Dec2000.pdf))
+**[ICME'2006]** Nikolaos Bellas, Arnold Yanof. An Image Processing Pipeline with Digital Compensation of Low Cost Optics for Mobile Telephony. *International Conference on Multimedia and Expo (ICME)*. July 9-12, 2006, Toronto, Canada. ([pdf](/files/C12.ICME_2006.pdf))
 
 **[ECVW'2006]** Chai, Nikolaos Bellas et al. Reconfigurable Streaming Architectures for Embedded Smart Camera Applications. *2nd IEEE Workshop on Embedded Computer Vision*, in conjunction with CVPR. June 18, 2006, New York, NY. ([pdf](/files/C11.EmbeddedComputerVision_2006.pdf))
 
