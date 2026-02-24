@@ -30,10 +30,10 @@ classes:
 
 **[P4]** [US Patent 6,868,123](https://patents.google.com/patent/US6868123/). Nikolaos Bellas, Malcolm Dwyer. "A programmable, high performance Vector array unit used for Real-time Motion Estimation", March 2005, Motorola Corp.
 
-**[P3]** [US Patent Application 2006/0159339]. Sek M. Chai, Mohamed Ahmed, Nikos Bellas, Greg Kujawa, King F. Lee, Abelardo Lopez Lagunas. "Method and apparatus as pertains to captured image statistics".
+**[P3]** [US Patent Application 2006/0159339](https://patents.google.com/patent/US20060159339A1/). Sek M. Chai, Mohamed Ahmed, Nikos Bellas, Greg Kujawa, King F. Lee, Abelardo Lopez Lagunas. "Method and apparatus as pertains to captured image statistics".
 
-**[P2]** [US Patent Application 2006/0262140]. Greg Kujawa, Mohamed Ahmed, Nikos Bellas, Sek M. Chai, King F. Lee, Abelardo Lopez Lagunas. "Method and apparatus to facilitate visual augmentation of perceived reality".
+**[P2]** [US Patent Application 2006/0262140](https://patents.google.com/patent/US20060262140A1/). Greg Kujawa, Mohamed Ahmed, Nikos Bellas, Sek M. Chai, King F. Lee, Abelardo Lopez Lagunas. "Method and apparatus to facilitate visual augmentation of perceived reality".
 
-**[P1]** [US Patent Application 2008/0120497]. Sek M. Chai, Nikos Bellas, Malcolm Dwyer, Dan Linzmeier. Automated configuration of a processing system using decoupled memory access and computation.
+**[P1]** [US Patent Application 2008/0120497](https://patents.google.com/patent/US20080120497A1/). Sek M. Chai, Nikos Bellas, Malcolm Dwyer, Dan Linzmeier. Automated configuration of a processing system using decoupled memory access and computation.
 
 </div>
