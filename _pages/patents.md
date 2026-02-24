@@ -10,7 +10,7 @@ classes:
 
 <div class="patents-small" markdown="1">
 
-(**[P13]**https://patents.google.com/patent/US8855441B2/en)) US Patent 8,855,441. Sek M. Chai, Malcolm Dwyer, Dan Linzmeier, Ruei-Sung Lin, Nikolas Bellas. Method and apparatus for transforming a non-linear lens-distorted image, October 2014, Motorola Corp.
+**[P13]** ([US Patent 8,855,441](https://patents.google.com/patent/US8855441B2/en)). Sek M. Chai, Malcolm Dwyer, Dan Linzmeier, Ruei-Sung Lin, Nikolas Bellas. Method and apparatus for transforming a non-linear lens-distorted image, October 2014, Motorola Corp.
 
 **[P12]** US Patent 8,326,077. Sek M. Chai, Malcolm Dwyer, Dan Linzmeier, Ruei-Sung Lin, Nikos Bellas. Method and apparatus for transforming a non-linear lens-distorted image, December 2012, Motorola Corp.
 
