@@ -4,7 +4,7 @@ permalink: /teaching/
 layout: single
 author_profile: true
 classes:
-  - publications-small
+  - teaching-small
 ---
 
 <div class="teaching-small" markdown="1">
