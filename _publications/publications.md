@@ -105,6 +105,8 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[FCCM'2014]** Muhsen Owaida, Christos D. Antonopoulos, Nikolaos Bellas. A Grammar Induction Method for Clustering of Operations in Complex FPGA Designs. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. May 11-13, 2014. Boston, MA. ([pdf](/files/C31.FCCM_2014.pdf))
 
+**[ICPADS'2013]** Konstantinos Krommydas, Muhsen Owaida, Christos D. Antonopoulos, Nikolaos Bellas, Wu-chun Feng. On the Portability of the OpenCL Dwarfs on Fixed and Reconfigurable Parallel Platforms. *19th IEEE International Conference on Parallel and Distributed Systems (ICPADS)*,  December 15-18, 2013, Seoul, Korea.([pdf](/files/ICPADS_2013.pdf))
+
 **[FCCM'2012]** Gabriel Falcao et al. Shortening design time through multiplatform simulations with a portable OpenCL golden model: the LDPC decoder case. *IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April-May 2012. Toronto, ON. ([pdf](/files/C30.FCCM_2012.pdf))
 
 **[ICCAD'2011]** Muhsen Owaida et al. Massively Parallel Programing Models Used as Hardware Description Languages: The OpenCL Case. *International Conference on Computer-Aided Design (ICCAD)*. November 6-10, 2011, San Jose, CA. ([pdf](/files/C29.ICCAD_2011.pdf))
