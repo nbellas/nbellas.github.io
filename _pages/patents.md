@@ -10,11 +10,11 @@ classes:
 
 <div class="patents-small" markdown="1">
 
-**[P13]** ([US Patent 8,855,441](https://patents.google.com/patent/US8855441B2/en)). Sek M. Chai, Malcolm Dwyer, Dan Linzmeier, Ruei-Sung Lin, Nikolas Bellas. Method and apparatus for transforming a non-linear lens-distorted image, October 2014, Motorola Corp.
+**[P13]** [US Patent 8,855,441](https://patents.google.com/patent/US8855441B2/en). Sek M. Chai, Malcolm Dwyer, Dan Linzmeier, Ruei-Sung Lin, Nikolas Bellas. Method and apparatus for transforming a non-linear lens-distorted image, October 2014, Motorola Corp.
 
-**[P12]** US Patent 8,326,077. Sek M. Chai, Malcolm Dwyer, Dan Linzmeier, Ruei-Sung Lin, Nikos Bellas. Method and apparatus for transforming a non-linear lens-distorted image, December 2012, Motorola Corp.
+**[P12]** [US Patent 8,326,077](https://patents.google.com/patent/US8326077B2/). Sek M. Chai, Malcolm Dwyer, Dan Linzmeier, Ruei-Sung Lin, Nikos Bellas. Method and apparatus for transforming a non-linear lens-distorted image, December 2012, Motorola Corp.
 
-**[P11]** US Patent 7,802,005. Sek M. Chai, Nikos Bellas, Malcolm Dwyer, Dan Linzmeier. Method and apparatus for configuring buffers for streaming data transfer. September 2010, Motorola Corp.
+**[P11]** [US Patent 7,802,005](https://patents.google.com/patent/US7802005B2). Sek M. Chai, Nikos Bellas, Malcolm Dwyer, Dan Linzmeier. Method and apparatus for configuring buffers for streaming data transfer. September 2010, Motorola Corp.
 
 **[P10]** US Patent 7,683,948. Arnold Yanof, Nikos Bellas. "System and method for bad pixel replacement in image processing". March 2010, Freescale Corp.
 
