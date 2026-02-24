@@ -16,11 +16,11 @@ classes:
 
 **[P11]** [US Patent 7,802,005](https://patents.google.com/patent/US7802005B2). Sek M. Chai, Nikos Bellas, Malcolm Dwyer, Dan Linzmeier. Method and apparatus for configuring buffers for streaming data transfer. September 2010, Motorola Corp.
 
-**[P10]** US Patent 7,683,948. Arnold Yanof, Nikos Bellas. "System and method for bad pixel replacement in image processing". March 2010, Freescale Corp.
+**[P10]** [US Patent 7,683,948](https://patents.google.com/patent/US7683948B2/). Arnold Yanof, Nikos Bellas. "System and method for bad pixel replacement in image processing". March 2010, Freescale Corp.
 
-**[P9]** US Patent 7,603,492. Sek M. Chai, Nikos Bellas, Malcolm Dwyer, Erica Lau, Zhiyuan Li, Dan Linzmeier. Automatic generation of streaming data interface circuit, October 2009, Motorola Corp.
+**[P9]** [US Patent 7,603,492](https://patents.google.com/patent/US7603492B2/). Sek M. Chai, Nikos Bellas, Malcolm Dwyer, Erica Lau, Zhiyuan Li, Dan Linzmeier. Automatic generation of streaming data interface circuit, October 2009, Motorola Corp.
 
-**[P8]** US Patent 7,580,070. Arnold Yanof, Nikos Bellas. "System and method for roll-off correction in image processing", August 2009, Freescale Corp.
+**[P8]** [US Patent 7,580,070](https://patents.google.com/patent/US7580070B2/). Arnold Yanof, Nikos Bellas. "System and method for roll-off correction in image processing", August 2009, Freescale Corp.
 
 **[P7]** US Patent 7,441,224. Nikos Bellas, Sek M. Chai, Dan Linzmeier. Streaming kernel selection for reconfigurable processor, October 2008, Motorola Corp.
 
