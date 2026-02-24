@@ -6,9 +6,6 @@ author_profile: true
 classes:
   - teaching-small
   - wide
-type: ""
-venue: ""
-date: 2026-02-01
 ---
 
 <div class="teaching-small" markdown="1">
