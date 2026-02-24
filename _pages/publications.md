@@ -147,7 +147,7 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 **[ECVW'2006]** Chai, Nikolaos Bellas et al. Reconfigurable Streaming Architectures for Embedded Smart Camera Applications. *2nd IEEE Workshop on Embedded Computer Vision*, in conjunction with CVPR. June 18, 2006, New York, NY. ([pdf](/files/C11.EmbeddedComputerVision_2006.pdf))
 
-**[RAW'2006]** Nikolaos Bellas et al. FPGA implementation of a license plate recognition SoC using automatically generated streaming accelerators. *13th Reconfigurable Architectures Workshop (RAW)*. 25-26 April 2006, Rhodes, Greece. ([pdf](/files/C10.RAW_2006.pdf))
+**[RAW'2006]** Nikolaos Bellas et al. FPGA implementation of a license plate recognition SoC using automatically generated streaming accelerators. *13th Reconfigurable Architectures Workshop (RAW)*. 25-26 April 2006, Rhodes, Greece. ([pdf](/files/Bellas_RAW2006.pdf))
 
 **[FCCM1'2006]** Nikolaos Bellas et al. Template-based generation of streaming accelerators from a high level representation. *International Symposium on Field-Programmable Custom Computing Machines (FCCM)*. April 24-26, 2006, Napa Valley, CA. ([pdf](/files/C9.FCCM1_2006.pdf))
 
