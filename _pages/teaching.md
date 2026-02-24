@@ -12,7 +12,7 @@ classes:
 
 <h2 style="color: #f00f28;">Courses</h2>
 
-**[Computer Organization and Design (ECE219)]**(https://www.e-ce.uth.gr/studies/undergraduate/courses/ece219/?lang=en). Sophomore class. (Fall 25 - Fall 13).
+[**Computer Organization and Design (ECE219)**](https://www.e-ce.uth.gr/studies/undergraduate/courses/ece219/?lang=en). Sophomore class. (Fall 25 - Fall 13).
 
 **Introduction to Computer Systems (ECE134)**. Freshman class. (Spring 13 - Spring 09).
 
