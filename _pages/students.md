@@ -20,10 +20,10 @@ classes:
 
 <h2 style="color: #f00f28;">Former Doctοral</h2>
 
-* Muhsen Owaida Architectural (Dissertation: Synthesis using Parallel Programming Models. Currently at Magic Leap, Switzerland)
-* Konstantinos Parasyris (Dissertation: System software techniques to enhance reliability of modern platforms. Currently at LLNL, USA)
-* Panagiotis Koutsovasilis (Dissertation: Virtual Machine Policies for Improving Energy Efficiency. Currently at Elastic) 
-* Christos Kalogirou (Dissertation: Software Policies and Mechanisms for Improving Performance and Lowering Power Consumption for the Memory Subsystem of High Performance Computers. Currently at Synopsys, Greece) 
-* Vassilis Vassiliadis ((Dissertation: Optimization of Program Execution Using Computational Significance. Ccurrently at IBM Research, Ireland)
+* Muhsen Owaida Architectural (Co-advised with Prof. Christos Antonopoulos and Lalis. Currently at Magic Leap, Switzerland.)
+* Konstantinos Parasyris (Co-advised with Prof. Christos Antonopoulos and Lalis. Currently at LLNL, USA)
+* Panagiotis Koutsovasilis (Co-advised with Prof. Christos Antonopoulos and Lalis. Currently at Elastic) 
+* Christos Kalogirou (Co-advised with Prof. Christos Antonopoulos and Lalis. Currently at Synopsys, Greece) 
+* Vassilis Vassiliadis (Co-advised with Prof. Christos Antonopoulos and Lalis. Currently at IBM Research, Ireland)
   
 </div>
