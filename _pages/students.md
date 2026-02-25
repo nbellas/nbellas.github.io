@@ -10,7 +10,7 @@ classes:
 
 <div class="students-small" markdown="1">
   
-<h2 style="color: #f00f28;">Current Doctοral</h3>
+<h2 style="color: #f00f28;">Current Doctοral</h2>
   
 * Alexandros Patras (ECE, Ph.D.)
 * Maria-Rafaela Gkeka (ECE, Ph.D.)
@@ -18,7 +18,7 @@ classes:
 
 
 
-<h2 style="color: #f00f28;">Former Doctοral</h3>
+<h2 style="color: #f00f28;">Former Doctοral</h2>
 
 * Muhsen Owaida (ECE, Ph.D., currently at Magic Leap, Switzerland)
 * Konstantinos Parasyris (ECE, Ph.D., currently at LLNL, USA)
