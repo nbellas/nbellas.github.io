@@ -19,7 +19,11 @@ classes:
 
 <h2 style="color: #f00f28;">Former</h2>
 
+<h3 style="color: #f00f28;">Doctοral Students</h3>
+
 * Muhsen Owaida (ECE, Ph.D., currently at Magic Leap, Switzerland)
 * Konstantinos Parasyris (ECE, Ph.D., currently in LLNL, USA)
+
+  
   
 </div>
