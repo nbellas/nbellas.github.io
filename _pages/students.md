@@ -20,7 +20,7 @@ classes:
 
 <h2 style="color: #f00f28;">Former Doctοral</h2>
 
-* Muhsen Owaida Architectural (Co-advised with Prof. Antonopoulos and Lalis. Currently at Magic Leap, Switzerland.)
+* Muhsen Owaida (Co-advised with Prof. Antonopoulos and Lalis. Currently at Magic Leap, Switzerland.)
 * Konstantinos Parasyris (Co-advised with Prof. Antonopoulos and Lalis. Currently at LLNL, USA)
 * Panagiotis Koutsovasilis (Co-advised with Prof. Antonopoulos and Lalis. Currently at Elastic) 
 * Christos Kalogirou (Co-advised with Prof. Antonopoulos and Lalis. Currently at Synopsys, Greece) 
