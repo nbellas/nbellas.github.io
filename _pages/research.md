@@ -26,9 +26,9 @@ We have also worked on ML inference on FPGAs by introducing [DPUconfig](/files/D
 
 <h2 style="color: #f00f28;">Prior Research</h2>
 
-<h3>Very low power GPUs for mobile robotics and virtual reality applications (vipGPU) </h3>h3>
+<h3>Efficient and Reliable Visual SLAM Architectures</h3>
 
-We aim at developing new hardware and software technology to efficiently support cutting edge application scenarios, which have the potential of significant research, business, and financial gains: (a) a computer vision application for mobile robotics, and (b) a virtual reality application for medical training for surgical procedures. The project will deliver a FPGA prototype based on the multicore, heterogeneous GPUs of Think Silicon that will be optimized for the two use-cases.
+
 
 <h3>Universal Micro-Server Ecosystem by Exceeding the Energy and Performance Scaling Boundaries (Uniserver)</h3>
 
