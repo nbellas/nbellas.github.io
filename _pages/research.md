@@ -41,5 +41,10 @@ Building on the previous paper’s idea of exploiting conservative hardware marg
 
 <h3>Significance-based Computing for Reliability and Power Optimization (SCoRPiO)</h3>
 
+Hardware manufacturers typically build in substantial safety margins—through voltage guardbands, conservative design rules, and additional protection circuitry—to ensure fault-free operation. Yet much of this built-in redundancy is not always necessary, especially for modern workloads such as multimedia, machine learning, and visualization, where limited imprecision can often be tolerated without noticeably affecting the final outcome. This project explored how to relax strict hardware reliability requirements by developing methods that enable the system and application software to work together in identifying which parts of a program are most critical to output quality and which can better tolerate faults. Using that knowledge, the system can direct computations and data either to low-power but potentially less reliable components or to higher-power, more dependable ones. In this way, the varying significance of different computations is used to support targeted approximate computing and improve overall energy efficiency.
+
+We worked on automating the process of identifying which parts of a program can safely tolerate approximation. We combined interval arithmetic and algorithmic differentiation to estimate how strongly inputs and computations affect output quality, then use that information to guide selective approximation. Across a range of benchmarks, the approach closely matches expert choices and achieves 31% to 91% energy savings on a multicore x86 system while maintaining acceptable output quality. ([CGO’2016](/files/C38.CGO_2016.pdf))
+
+
 
 </div>
