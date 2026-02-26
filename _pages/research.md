@@ -28,6 +28,7 @@ We have also worked on ML inference on FPGAs by introducing [DPUconfig](/files/D
 
 <h3>Universal Micro-Server Ecosystem by Exceeding the Energy and Performance Scaling Boundaries (Uniserver)</h3>
 
-This project explored a new generation of energy-efficient micro-server systems for data-intensive and distributed computing. A key part of its vision was significance-based computing—an approach that treats data and computations according to how critical they are, allowing the system to apply stronger protection where it matters most and relax constraints where small errors are tolerable. By combining this idea with adaptive hardware and software optimization, UniServer aimed to improve performance, reduce power consumption, and increase efficiency for emerging workloads in areas such as big data, cloud services, and the Internet of Things.
- ([1](/files/TACO_2017.pdf)) ([2](/files/TSUSC_2022.pdf))
+This project explored a new generation of energy-efficient micro-server systems for data-intensive and distributed computing. A key part of its vision was significance-based computing, an approach that treats data and computations according to how critical they are, allowing the system to apply stronger protection where it matters most and relax constraints where small errors are tolerable. Significance-based computing turns uncertainty from a liability into a managed resource, enabling aggressive power savings and better performance-per-watt without treating every bit, core, or software structure as equally critical. We developed runtime support that sets the supply voltage in a multicore CPU to sub-nominal values to reduce the energy footprint and provide mechanisms to control output quality. The developers specify the significance of application tasks respecting their contribution to the output quality and provide check and repair functions for handling faults ([TACO'2017](/files/TACO_2017.pdf))
+
+  ([TSUSC'2022](/files/TSUSC_2022.pdf))
 </div>
