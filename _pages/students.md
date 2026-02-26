@@ -24,6 +24,6 @@ classes:
 * Christos Kalogirou (PhD 2020. Co-advised with Prof. Antonopoulos and Lalis. Currently at Synopsys, Greece)
 * Konstantinos Parasyris (PhD 2018. Co-advised with Prof. Antonopoulos and Lalis. Currently at LLNL, USA)
 * Vassilis Vassiliadis (PhD 2017. Co-advised with Prof. Antonopoulos and Lalis. Currently at IBM Research, Ireland)
-* Muhsen Owaida (PhD 2012. Co-advised with Prof. Antonopoulos and Lalis. Currently at Magic Leap, Switzerland.)
+* Muhsen Owaida (PhD 2012. Co-advised with Prof. Antonopoulos. Currently at Magic Leap, Switzerland.)
   
 </div>
