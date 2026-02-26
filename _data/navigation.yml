@@ -14,10 +14,13 @@ main:
   - title: "Patents"
     url: /patents/  
 
-   - title: "Students"
+  - title: "Research"
+    url: /research/
+    
+  - title: "Students"
     url: /students/
     
-   - title: "Teaching"
+  - title: "Teaching"
     url: /teaching/    
     
   # - title: "CV"
