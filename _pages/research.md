@@ -25,10 +25,10 @@ In this line of work we have also focused on efficient on-device DNN training. W
 We have also worked on ML inference on FPGAs by introduced [DPUconfig](/files/DATE_2026.pdf), a novel runtime management framework, based on a custom Reinforcement Learning (RL) agent, that dynamically selects
 optimal DPU (Data Processing Units) configurations by leveraging real-time telemetry data monitoring, system utilization, power consumption, and application performance to inform its configuration selection decisions. 
 
-<h3 style="color: #f00f28;">Uniserver</h3>
-**Software:** EDA tools for architectural synthesis; system software for reliable and approximate computing; multimedia.
 
 <h2 style="color: #f00f28;">Prior Research</h2>
 
+<h3>Universal Micro-Server Ecosystem by Exceeding the Energy and Performance Scaling Boundaries</h3>
 
+The project aims to develop a universal system architecture and software ecosystem for energy-efficient high-performance micro-servers, facilitating the evolution of the Internet from an infrastructure where data is aggregated to centralized data-centres to an infrastructure where data are handled in a distributed and localized manner close to the data sources. This goal will be realized by greatly improving the energy efficiency, performance, dependability and security of the current state-of-the-art micro-servers, while reinforcing the supported system software. The project will develop effective means to expose the intrinsic hardware heterogeneity caused by process variations, harness it and use it to its advantage for improving energy efficiency or performance. Lightweight software-based mechanisms will be embedded for exposing to the system software the pessimistic voltage/frequency margins currently adopted in commercial processor and memory, which will be enhanced with new margin/fault-aware runtime and resource management policies. This technology will be ported on the world-first 64-bit ARM based Server-on-Chip and will be evaluated using state-of-the-art applications deployed in classical cloud business data-centres as well as in newer edge environments.
 </div>
