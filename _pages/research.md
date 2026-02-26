@@ -26,6 +26,10 @@ We have also worked on ML inference on FPGAs by introducing [DPUconfig](/files/D
 
 <h2 style="color: #f00f28;">Prior Research</h2>
 
+<h3>Very low power GPUs for mobile robotics and virtual reality applications (vipGPU) </h3>h3>
+
+We aim at developing new hardware and software technology to efficiently support cutting edge application scenarios, which have the potential of significant research, business, and financial gains: (a) a computer vision application for mobile robotics, and (b) a virtual reality application for medical training for surgical procedures. The project will deliver a FPGA prototype based on the multicore, heterogeneous GPUs of Think Silicon that will be optimized for the two use-cases.
+
 <h3>Universal Micro-Server Ecosystem by Exceeding the Energy and Performance Scaling Boundaries (Uniserver)</h3>
 
 This project explored a new generation of energy-efficient micro-server systems for data-intensive and distributed computing. A key part of its vision was significance-based computing, an approach that treats data and computations according to how critical they are, allowing the system to apply stronger protection where it matters most and relax constraints where small errors are tolerable. Significance-based computing turns uncertainty from a liability into a managed resource, enabling aggressive power savings and better performance-per-watt without treating every bit, core, or software structure as equally critical. We developed runtime support that sets the supply voltage in a multicore CPU to sub-nominal values to reduce the energy footprint and provide mechanisms to control output quality. The developers specify the significance of application tasks respecting their contribution to the output quality and provide check and repair functions for handling faults ([TACO'2017](/files/TACO_2017.pdf))
