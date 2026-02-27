@@ -94,7 +94,6 @@ I have spent a great deal of my research in Motorola Labs and the earlier years 
      width="400"
      style="float: center; margin: 0 0 1rem 1.5rem;"> 
 <div style="clear: both;"></div>
-
 During my tenure at Motorola's Multimedia Architecture Lab (1999-2007), I worked as one of the architects of highly specialized ASIC designs targeting embedded multimedia applications, and especially programmable MPEG4 video and JPEG image compression. A critical component of this work was the development of a programmable [Motion Estimation](https://patents.google.com/patent/US6868123/) module, for which I defined a custom Instruction Set Architecture (ISA) and a high-performance vector array unit. This hardware design directly resulted in multiple US Patents, including innovations in real-time motion estimation and [virtual memory translation](https://patents.google.com/patent/US7073041/) for media acceleration. Furthermore, I served as the chief architect of multiple ASIC chips executing [image processing pipelines](https://patents.google.com/patent/US7683948B2/) for next-generation 3G mobile devices. 
 
 <h3>Low power microarchitectures</h3>
