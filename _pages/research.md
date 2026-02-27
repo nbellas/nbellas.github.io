@@ -68,6 +68,14 @@ We worked on automating the process of identifying which parts of a program can 
 
 The problem of automatically generating hardware modules from a high level representation of an application (aka High Level Synthesis) has been at the research forefront of the EDA research. The challenge is to close the “architectural gap” between the formal specification of a platform system and its architectural synthesis and final implementation. Such a methodology would potentially enable the large pool of software engineers and algorithm IP experts without architectural and hardware expertise to design and implement platform systems, thus dramatically reducing time to market and increase productivity. Our research produced an end-to-end CAD tool that utilizes concepts of the stream and data-parallel paradigms to generate synthesizable co-processors targeting a commercial platform SoC FPGA. We used OpenCL, an industry supported data-parallel programming standard for writing programs that execute on heterogeneous platforms and accelerators comprising CPUs, GPUs and other forms of accelerators. Our architectural synthesis tool, dubbed [SOpenCL](/files/C26.FCCM3_2011.pdf) (Silicon OpenCL), adapts OpenCL into a novel hardware design flow which efficiently maps coarse and fine-grained parallelism of an application onto an FPGA reconfigurable fabric. SOpenCL transforms unmodified OpenCL kernels into hardware accelerators, with computation and memory communication explicitly decoupled for better efficiency and tunability. By combining compiler optimizations with configurable architectural templates, the approach generates accelerators that adapt to application characteristics and performance goals, helping bridge the gap between parallel programming and custom hardware design.
 
+Streaming_Architecture.png
+<img src="/images/Streaming_Architecture.png"
+     alt="caption"
+     width="300"
+     style="float: center; margin: 0 0 1rem 1.5rem;"> 
+<div style="clear: both;"></div>
+
 In an earlier version of this research, we worked on an FPGA-based real-time fisheye lens distortion correction system built with automatically generated streaming accelerators. Using a high-level streaming description and the Proteus synthesis tool, we demonstratesd how complex image-processing pipelines can be mapped efficiently to reconfigurable hardware for high-performance embedded vision. ([FCCM'2009](/files/C16.FCCM_2009.pdf))
+<div style="clear: both;"></div>
 
 </div>
