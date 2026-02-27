@@ -10,7 +10,7 @@ classes:
 
 <div class="research-small" markdown="1">
 
-#############################################################################################################################
+
 <h2 style="color: #f00f28;">Current Research</h2>
 
 <h3>Machine Learning for Autonomic System Operation in the Heterogeneous Edge-Cloud Continuum (MLSysOps)</h3>
@@ -32,7 +32,7 @@ In this line of work we have also focused on efficient on-device DNN training. W
 We have also worked on ML inference on FPGAs by introducing [DPUconfig](/files/DATE_2026.pdf), a novel runtime management framework, based on a custom Reinforcement Learning (RL) agent, that dynamically selects optimal DPU (Data Processing Units) configurations by leveraging real-time telemetry data monitoring, system utilization, power consumption, and application performance to inform its configuration selection decisions. 
 <div style="clear: both;"></div>
 
-#############################################################################################################################
+
 <h2 style="color: #f00f28;">Prior Research</h2>
 
 <h3>Efficient and Reliable Visual SLAM Architectures</h3>
@@ -45,7 +45,7 @@ We have also worked on ML inference on FPGAs by introducing [DPUconfig](/files/D
 
 We explore how visual SLAM can be made practical for real-world autonomous systems by balancing two core requirements: performance and reliability. Our research focused on embedded, resource-constrained platforms and presented optimized FPGA/MPSoC-based implementations for dense SLAM, showing how precise and approximate hardware/software optimizations can deliver real-time, low-power performance—reaching more than 30 fps and up to 46× speedup for key kernels—while preserving tracking quality. We introduced PG-SLAM, an extension to KinectFusion algorithm that helps a humanoid robot recover its pose when the baseline KinectFusion tracking system fails. The pose graph optimization phase is very computationally expensive limiting real-time PG-SLAM performance. Hence, we proposed numerous approximations to reduce computation requirements and we explored the architecture of multiple HW/SW FPGA designs that implement approximate versions of PG-SLAM. We showed that even though approximations are necessary to achieve real-time operation, they need to be applied carefully to avoid large numbers of untracked frames. We provided a practical framework for building high-performance, energy-efficient, and robust visual SLAM systems for next-generation robotics and edge AI applications. ([TECS'2023](/files/ACM_Journal_PG_SLAM_Final.pdf))
 
-#############################################################################################################################
+
 <h3>Universal Micro-Server Ecosystem by Exceeding the Energy and Performance Scaling Boundaries (Uniserver)</h3>
 
 This research explored a new generation of energy-efficient micro-server systems for data-intensive and distributed computing. A key part of its vision was significance-based computing, an approach that treats data and computations according to how critical they are, allowing the system to apply stronger protection where it matters most and relax constraints where small errors are tolerable. Significance-based computing turns uncertainty from a liability into a managed resource, enabling aggressive power savings and better performance-per-watt without treating every bit, core, or software structure as equally critical. 
@@ -59,7 +59,7 @@ We also presented a practical way to make modern multicore processors more energ
 
 Building on the previous paper’s idea of exploiting conservative hardware margins, we extend the approach from CPUs to DRAM in cloud servers. With RM-DRAM, we demonstrate that relaxing memory operating margins can reduce energy use by up to 34.84% and operating cost by 29.53%, while managing reliability and SLA risks through cost-aware scheduling. ([CCGrid'2020](/files/CCGrid_2020.pdf))
 
-#############################################################################################################################
+
 <h3>Significance-based Computing for Reliability and Power Optimization (SCoRPiO)</h3>
 
 Hardware manufacturers typically build in substantial safety margins—through voltage guardbands, conservative design rules, and additional protection circuitry—to ensure fault-free operation. Yet much of this built-in redundancy is not always necessary, especially for modern workloads such as multimedia, machine learning, and visualization, where limited imprecision can often be tolerated without noticeably affecting the final outcome. This project explored how to relax strict hardware reliability requirements by developing methods that enable the system and application software to work together in identifying which parts of a program are most critical to output quality and which can better tolerate faults. Using that knowledge, the system can direct computations and data either to low-power but potentially less reliable components or to higher-power, more dependable ones. In this way, the varying significance of different computations is used to support targeted approximate computing and improve overall energy efficiency.
@@ -68,7 +68,7 @@ We developed runtime support that sets the supply voltage in a multicore CPU to 
 
 We worked on automating the process of identifying which parts of a program can safely tolerate approximation. We combined interval arithmetic and algorithmic differentiation to estimate how strongly inputs and computations affect output quality, then use that information to guide selective approximation. Across a range of benchmarks, the approach closely matches expert choices and achieves 31% to 91% energy savings on a multicore x86 system while maintaining acceptable output quality. ([CGO’2016](/files/C38.CGO_2016.pdf))
 
-#############################################################################################################################
+
 <h3>Automatic Hardware Generation Using the Streaming Paradigm</h3>
 
 The problem of automatically generating hardware modules from a high level representation of an application (aka High Level Synthesis) has been at the research forefront of the EDA research. The challenge is to close the “architectural gap” between the formal specification of a platform system and its architectural synthesis and final implementation. Such a methodology would potentially enable the large pool of software engineers and algorithm IP experts without architectural and hardware expertise to design and implement platform systems, thus dramatically reducing time to market and increase productivity. Our research produced an end-to-end CAD tool that utilizes concepts of the stream and data-parallel paradigms to generate synthesizable co-processors targeting a commercial platform SoC FPGA. We used OpenCL, an industry supported data-parallel programming standard for writing programs that execute on heterogeneous platforms and accelerators comprising CPUs, GPUs and other forms of accelerators. Our architectural synthesis tool, dubbed [SOpenCL](/files/C26.FCCM3_2011.pdf) (Silicon OpenCL), adapts OpenCL into a novel hardware design flow which efficiently maps coarse and fine-grained parallelism of an application onto an FPGA reconfigurable fabric. SOpenCL transforms unmodified OpenCL kernels into hardware accelerators, with computation and memory communication explicitly decoupled for better efficiency and tunability. By combining compiler optimizations with configurable architectural templates, the approach generates accelerators that adapt to application characteristics and performance goals, helping bridge the gap between parallel programming and custom hardware design.
@@ -82,10 +82,10 @@ The problem of automatically generating hardware modules from a high level repre
 In an earlier version of this research, we worked on an FPGA-based real-time fisheye lens distortion correction system built with automatically generated streaming accelerators. Using a high-level streaming description and the Proteus synthesis tool, we demonstratesd how complex image-processing pipelines can be mapped efficiently to reconfigurable hardware for high-performance embedded vision. ([FCCM'2009](/files/C16.FCCM_2009.pdf))
 <div style="clear: both;"></div>
 
-#############################################################################################################################
+
 <h3>Mapping Algorithms to Parallel and Reconfigurable Platforms</h3>
 
-I have spent a great deal of my earlier research 
+I have spent a great deal of my research in Motorola Labs and the earlier years at the U Thessaly in mapping interesting multimedia and computer vision algorithms onto parallel and hardware accelerator platforms like FPGAs, GPUs, the Cell processor from IBM, and multicore CPUs . Key technical outcomes included the successful implementation of demanding image processing tasks, such as real-time fisheye lens distortion correction ([1,2](/files/C26.FCCM3_2011.pdf,/files/C17.ICS_2009.pdf)) and license plate recognition, leveraging automatically generated streaming accelerators on FPGAs. This specific focus on non-linear lens-distorted image transformation resulted in fully realized hardware methodologies and multiple US Patents. Additionally, this line of research provided deep architectural evaluations of the AVS video decoding standard, optimizing its execution and mapping its motion compensation kernels across diverse topologies, including heterogeneous dual-core SIMD processors, high-performance chip multiprocessors, and GPUs. Collectively, these technical results demonstrated the efficacy of utilizing the streaming programming paradigm and custom hardware accelerators to satisfy the strict real-time performance requirements of embedded multimedia systems.
 
 
 </div>
