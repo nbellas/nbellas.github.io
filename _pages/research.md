@@ -87,5 +87,8 @@ In an earlier version of this research, we worked on an FPGA-based real-time fis
 
 I have spent a great deal of my research in Motorola Labs and the earlier years at the U Thessaly in mapping interesting multimedia and computer vision algorithms onto parallel and hardware accelerator platforms like FPGAs, GPUs, the Cell processor from IBM, and multicore CPUs . Key technical outcomes included the successful implementation of demanding image processing tasks, such as real-time fisheye lens distortion correction ([FCCM'2009](/files/C26.FCCM3_2011.pdf), [ICS'2009](/files/C17.ICS_2009.pdf), [IPDPS'2010](/files/C21.IPDPS_2010.pdf)) and license plate recognition ([RAW'2006](/files/Bellas_RAW2006.pdf)), leveraging automatically generated streaming accelerators on FPGAs. This specific focus on non-linear lens-distorted image transformation resulted in fully realized hardware methodologies and multiple [US Patents](https://patents.google.com/patent/US8326077B2/). Additionally, this line of research provided deep architectural evaluations of the AVS video decoding standard, optimizing its execution and mapping it across diverse topologies, including heterogeneous dual-core SIMD processors ([TCE'2011](/files/IEEETransactionsConsumerElectronics_2011.pdf)), and high-performance chip multiprocessors ([ICME'2010](/files/C22.ICME_2010.pdf)). Collectively, these technical results demonstrated the efficacy of utilizing the streaming programming paradigm and custom hardware accelerators to satisfy the strict real-time performance requirements of embedded multimedia systems.
 
+<h3>Video compression SoC</h3>
+
+
 
 </div>
