@@ -37,7 +37,7 @@ We have also worked on ML inference on FPGAs by introducing [DPUconfig](/files/D
 
 <img src="/images/vSLAM.jpg"
      alt="visual SLAM pipeline"
-     width="800"
+     width="500"
      style="float: center; margin: 0 0 1rem 1.5rem;"> 
 
 We explore how visual SLAM can be made practical for real-world autonomous systems by balancing two core requirements: performance and reliability. Our research focuses on embedded, resource-constrained platforms and presents optimized FPGA/MPSoC-based implementations for dense SLAM, showing how precise and approximate hardware/software optimizations can deliver real-time, low-power performance—reaching more than 30 fps and up to 46× speedup for key kernels—while preserving tracking quality. It also extends the analysis beyond performance, examining how design choices affect accuracy and robustness, and evaluating how black-box adversarial attacks on CNN-based feature detectors can degrade SLAM reliability. Together, these contributions provide a practical framework for building high-performance, energy-efficient, and robust visual SLAM systems for next-generation robotics and edge AI applications. ([TECS'2023](/files/ACM_Journal_PG_SLAM_Final.pdf))
@@ -50,7 +50,7 @@ This project explored a new generation of energy-efficient micro-server systems 
 We also presented a practical way to make modern multicore processors more energy efficient by safely reducing CPU voltage below conservative factory-set margins. Focusing on Intel Haswell and Skylake systems, we show that these built-in voltage margins are often larger than necessary in real workloads, and they introduce an Extended Dynamic Voltage Scaling (xDVS) governor that uses performance counters and CPU utilization to predict and apply the minimum safe voltage at runtime. The result is a lightweight, adaptive approach that improves performance-per-watt with up to 42% energy savings on Skylake and 34% on Haswell, while keeping performance overhead negligible—making it especially relevant for servers, HPC platforms, and other power-constrained compute environments. ([TPDS’2020](/files/TPDS2020.pdf))
 <img src="/images/tpds2020.png"
      alt="caption"
-     width="500"
+     width="800"
      style="float: center; margin: 0 0 1rem 1.5rem;"> 
 <div style="clear: both;"></div>
 
