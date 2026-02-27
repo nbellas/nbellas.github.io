@@ -27,7 +27,6 @@ costs, and real-time carbon intensity. Using the Huawei Public Cloud Trace, we s
 In this line of work we have also focused on efficient on-device DNN training. We proposed the [TMModel](/files/2025_ICS_TMModel.pdf), a performance model that captures the impacts of memory, and especially the texture cache, on the performance of embedded GPUs (e.g. in high-end cell phones) for different access patterns. In a follow-up work, this modeling guides compiler-level optimizations for on-device DNN training by quickly characterizing the effects of operator fusion, data layout synthesis and selection, and sub-batch size selection and performing global co-optimization across the entire computational graph. Experimental results show that our methodology consistently outperforms baselines, achieving speedups of 1.44×–74.5× over the vendor-optimized CLML kernel library and 8.9×–204× over the MNN framework.
 
 We have also worked on ML inference on FPGAs by introducing [DPUconfig](/files/DATE_2026.pdf), a novel runtime management framework, based on a custom Reinforcement Learning (RL) agent, that dynamically selects optimal DPU (Data Processing Units) configurations by leveraging real-time telemetry data monitoring, system utilization, power consumption, and application performance to inform its configuration selection decisions. 
-
 <div style="clear: both;"></div>
 
 <h2 style="color: #f00f28;">Prior Research</h2>
