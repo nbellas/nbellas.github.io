@@ -35,8 +35,13 @@ We have also worked on ML inference on FPGAs by introducing [DPUconfig](/files/D
 
 <h3>Efficient and Reliable Visual SLAM Architectures</h3>
 
-We explore how visual SLAM can be made practical for real-world autonomous systems by balancing two core requirements: performance and reliability. Our research focuses on embedded, resource-constrained platforms and presents optimized FPGA/MPSoC-based implementations for dense SLAM, showing how precise and approximate hardware/software optimizations can deliver real-time, low-power performance—reaching more than 30 fps and up to 46× speedup for key kernels—while preserving tracking quality. It also extends the analysis beyond performance, examining how design choices affect accuracy and robustness, and evaluating how black-box adversarial attacks on CNN-based feature detectors can degrade SLAM reliability. Together, these contributions provide a practical framework for building high-performance, energy-efficient, and robust visual SLAM systems for next-generation robotics and edge AI applications. ([TECS'2023](/files/ACM_Journal_PG_SLAM_Final.pdf))
+<img src="/images/vSLAM.jpg"
+     alt="visual SLAM pipeline"
+     width="500"
+     style="float: center; margin: 0 0 1rem 1.5rem;"> 
 
+We explore how visual SLAM can be made practical for real-world autonomous systems by balancing two core requirements: performance and reliability. Our research focuses on embedded, resource-constrained platforms and presents optimized FPGA/MPSoC-based implementations for dense SLAM, showing how precise and approximate hardware/software optimizations can deliver real-time, low-power performance—reaching more than 30 fps and up to 46× speedup for key kernels—while preserving tracking quality. It also extends the analysis beyond performance, examining how design choices affect accuracy and robustness, and evaluating how black-box adversarial attacks on CNN-based feature detectors can degrade SLAM reliability. Together, these contributions provide a practical framework for building high-performance, energy-efficient, and robust visual SLAM systems for next-generation robotics and edge AI applications. ([TECS'2023](/files/ACM_Journal_PG_SLAM_Final.pdf))
+<div style="clear: both;"></div>
 
 <h3>Universal Micro-Server Ecosystem by Exceeding the Energy and Performance Scaling Boundaries (Uniserver)</h3>
 
