@@ -51,7 +51,7 @@ We also presented a practical way to make modern multicore processors more energ
 <img src="/images/tpds2020.png"
      alt="caption"
      width="800"
-     style="float: center; margin: 0 0 1rem 1.5rem;"> 
+     style="float: right; margin: 0 0 1rem 1.5rem;"> 
 <div style="clear: both;"></div>
 
 Building on the previous paper’s idea of exploiting conservative hardware margins, we extend the approach from CPUs to DRAM in cloud servers. With RM-DRAM, we demonstrate that relaxing memory operating margins can reduce energy use by up to 34.84% and operating cost by 29.53%, while managing reliability and SLA risks through cost-aware scheduling. ([CCGrid'2020](/files/CCGrid_2020.pdf))
@@ -70,7 +70,7 @@ The problem of automatically generating hardware modules from a high level repre
 
 <img src="/images/Streaming_Architecture.png"
      alt="caption"
-     width="400"
+     width="500"
      style="float: center; margin: 0 0 1rem 1.5rem;"> 
 <div style="clear: both;"></div>
 
