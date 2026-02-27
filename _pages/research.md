@@ -18,7 +18,7 @@ We are working on the design, implementation and evaluation of a complete framew
 
 <img src="/images/MLSysOps_Framework.png"
      alt="MLSysOps framework core architecture"
-     width="400"
+     width="500"
      style="float: center; margin: 0 0 1rem 1.5rem;"> 
 
 Energy efficiency, performance, low latency, efficient, resilient and trusted tier-less storage, cross-layer orchestration including resource-constrained devices, resilience to imperfections of physical networks, trust and security, are key elements of MLSysOps addressed using ML models. The framework architecture disassociates management from control and seamlessly interfaces with popular control frameworks for different layers of the continuum. The framework is evaluated using research testbeds as well as two real-world application-specific testbeds in the domain of smart cities and smart agriculture, which is also used to collect the system-level data necessary to train and validate the ML models, while realistic system simulators will be used to conduct scale-out experiments. ([Github](https://github.com/mlsysops-eu))
