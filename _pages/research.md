@@ -48,6 +48,11 @@ We explore how visual SLAM can be made practical for real-world autonomous syste
 This project explored a new generation of energy-efficient micro-server systems for data-intensive and distributed computing. A key part of its vision was significance-based computing, an approach that treats data and computations according to how critical they are, allowing the system to apply stronger protection where it matters most and relax constraints where small errors are tolerable. Significance-based computing turns uncertainty from a liability into a managed resource, enabling aggressive power savings and better performance-per-watt without treating every bit, core, or software structure as equally critical. 
 
 We also presented a practical way to make modern multicore processors more energy efficient by safely reducing CPU voltage below conservative factory-set margins. Focusing on Intel Haswell and Skylake systems, we show that these built-in voltage margins are often larger than necessary in real workloads, and they introduce an Extended Dynamic Voltage Scaling (xDVS) governor that uses performance counters and CPU utilization to predict and apply the minimum safe voltage at runtime. The result is a lightweight, adaptive approach that improves performance-per-watt with up to 42% energy savings on Skylake and 34% on Haswell, while keeping performance overhead negligible—making it especially relevant for servers, HPC platforms, and other power-constrained compute environments. ([TPDS’2020](/files/TPDS2020.pdf))
+<img src="/images/tpds2020.png"
+     alt="caption"
+     width="500"
+     style="float: center; margin: 0 0 1rem 1.5rem;"> 
+<div style="clear: both;"></div>
 
 Building on the previous paper’s idea of exploiting conservative hardware margins, we extend the approach from CPUs to DRAM in cloud servers. With RM-DRAM, we demonstrate that relaxing memory operating margins can reduce energy use by up to 34.84% and operating cost by 29.53%, while managing reliability and SLA risks through cost-aware scheduling. ([CCGrid'2020](/files/CCGrid_2020.pdf))
 
