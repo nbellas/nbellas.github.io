@@ -91,7 +91,7 @@ I have spent a great deal of my research in Motorola Labs and the earlier years 
 
 <img src="/images/MotionEstimator.png"
      alt="caption"
-     width="500"
+     width="400"
      style="float: center; margin: 0 0 1rem 1.5rem;"> 
 <div style="clear: both;"></div>
 
