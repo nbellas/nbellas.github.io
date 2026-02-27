@@ -37,7 +37,7 @@ We have also worked on ML inference on FPGAs by introducing [DPUconfig](/files/D
 
 <img src="/images/vSLAM.jpg"
      alt="visual SLAM pipeline"
-     width="500"
+     width="600"
      style="float: center; margin: 0 0 1rem 1.5rem;"> 
 <div style="clear: both;"></div>
 
