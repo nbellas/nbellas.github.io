@@ -46,6 +46,7 @@ Dynamic Undervolting to Improve Energy Efficiency on Multicore x86 CPUs. *IEEE T
 
 
 <h2 style="color: #f00f28;">Conferences and Workshops</h2>
+
 **[EuroPar'2026]**  Bowen Sun, Christos Antonopoulos, Evgenia Smirni, Bin Ren, Nikolaos Bellas, Spyros Lalis. PeakLife: Proactive VM Management via Joint Forecasting. *32nd International
 European Conference on Parallel and Distributed Computing (Euro-Par)*. August 24-28, 2026. Pisa, Italy.
 
